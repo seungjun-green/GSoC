@@ -1,0 +1,152 @@
+Acute kidney injury
+Acute respiratory distress syndrome
+Addison's disease
+Aplastic anemia
+Asthma
+Bacterial meningitis
+Bleeding disorders
+Brain aneurysm
+Brain tumor
+Bronchiectasis
+Burns
+Cancer
+Cardiac arrest
+Cardiomyopathy
+Chronic kidney disease
+Chronic obstructive pulmonary disease (COPD)
+Colitis
+Congestive heart failure
+Crohn's disease
+Cystic fibrosis
+Dementia
+Diabetes
+Diverticulitis
+Eclampsia
+Endometriosis
+Heart attack
+Hepatic encephalopathy
+Hepatitis
+HIV/AIDS
+Hypertensive crisis
+Hyperthyroidism
+Inflammatory bowel disease (IBD)
+Kidney failure
+Liver failure
+Lupus
+Malaria
+Multiple sclerosis
+Myocardial infarction
+Nephrotic syndrome
+Neurological disorders
+Organ failure
+Pancreatitis
+Peritonitis
+Pneumonia
+Polycystic kidney disease
+Post-traumatic stress disorder (PTSD)
+Psoriasis
+Pulmonary embolism
+Renal failure
+Rheumatoid arthritis
+Sepsis
+Stroke
+Systemic lupus erythematosus (SLE)
+Thyroid cancer
+Tuberculosis
+Ulcerative colitis
+Vasculitis
+Viral meningitis
+Wilson's disease
+Yellow fever
+Acute kidney injury
+Acute respiratory distress syndrome
+AIDS
+Alcohol withdrawal
+Anemia
+Appendicitis
+Asthma attack
+Bacterial meningitis
+Bacteremia
+Brain tumor
+Bronchiolitis
+Burns
+Cancer
+Cardiac arrest
+Cardiomyopathy
+Cerebrovascular accident (stroke)
+Chronic obstructive pulmonary disease (COPD)
+Colitis
+Coma
+Congestive heart failure
+Crohn's disease
+Dementia
+Diabetes mellitus
+Delirium
+Depression
+Diarrhea
+Epilepsy
+Heart attack
+Hepatitis
+Heart failure
+HIV/AIDS
+Hypertensive crisis
+Inflammatory bowel disease
+Influenza
+Kidney failure
+Liver failure
+Malaria
+Meningitis
+Mental illness
+Multiple sclerosis
+Myocardial infarction
+Organ failure
+Pneumonia
+Polycystic kidney disease
+Post-traumatic stress disorder (PTSD)
+Preeclampsia
+Pulmonary embolism
+Rabies
+Renal failure
+Respiratory failure
+Sepsis
+Severe acute respiratory syndrome (SARS)
+Stroke
+Systemic lupus erythematosus (SLE)
+Tuberculosis
+Traumatic brain injury
+Ulcerative colitis
+Uremia
+Vasculitis
+Viral meningitis
+Viral pneumonia
+Withdrawal syndrome
+Wound infection
+Yellow fever
+Zika virus infection
+Pneumonia
+Heart failure
+Congestive heart failure
+Chronic obstructive pulmonary disease (COPD)
+Asthma
+Diabetes
+Kidney failure
+Liver failure
+Sepsis
+Meningitis
+Encephalitis
+Brain tumor
+Spinal cord injury
+Multiple sclerosis
+Rheumatoid arthritis
+Lupus
+Cancer
+Organ transplant rejection
+Severe burns
+Severe injuries
+Pregnancy complications
+Newborns with health problems
+Mental health problems
+Substance abuse
+Eating disorders
+HIV/AIDS
+Hepatitis
