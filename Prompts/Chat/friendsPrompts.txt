@@ -1,0 +1,744 @@
+Write a conversation history between two friends talking on 2. Sharing old memories when we were kids
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 2. The worst thing that happened to you this week.
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 5. Our plans for the future
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 23. Our favorite music
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on Our Least Favorite Video Games
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 7. The things we're most grateful for
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on Our Favorite Music
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on Our Advice for Each Other
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 3. The latest movies we've seen
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 4. Our favorite books and why we love them.
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 14. Our favorite places to go for fun
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 4. The most interesting people we've ever met
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 5. The worst thing about being a parent.
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on Our Favorite Video Games
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 3. The most challenging experiences we've ever had.
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 35. Our lessons from the past
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 1. The best way to make a grilled cheese sandwich.
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 8. The things we're most grateful for
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on Our Dreams for the Future
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 37. Our dreams for the world
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 4. Your biggest dream.
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on Our Least Favorite Foods
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 23. Your favorite way to show someone you care.
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 4. The best thing about being a parent.
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 14. The things that make us cry
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 15. Our favorite things to do in our free time
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 8. Our favorite TV shows and why we love them.
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 6. Our hopes and dreams for the future and what we're doing to make them happen.
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 10. The things we'd like to see happen in the world
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 13. Your favorite TV show.
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 7. The most interesting people we've met
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 7. Our hopes and dreams for the future
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 15. Your favorite quote.
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on Our Favorite Ways to Spend Time Together
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 2. The most interesting books we've read recently
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 42. Our favorite proverbs
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 2. The most interesting places we've ever traveled.
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 1. Our Favorite Books and Why We Love Them
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 8. Our biggest fears
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on Favorite Animes
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 18. Your favorite way to spend a day off.
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 15. The things that make us angry
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 30. Our favorite ways to spend time alone
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on Our Least Favorite Sports Teams
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on Our Least Favorite Things to Talk About
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on Sharing Old Memories When We Were Kids
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 2. Our favorite movies of all time and why.
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 31. Our goals for the future
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on Our Most Triumphant Moments
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 7. Our favorite books, music, and movies and why they're so special to us.
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 29. Our favorite ways to spend time with family
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 8. The most challenging experiences we've faced
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 1. The best places to travel on a budget
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 39. Our regrets for the world
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 4. Favorite animes
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 26. Your favorite way to make someone laugh.
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 24. Our favorite foods
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 6. Our favorite music and why we love it.
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 2. The most memorable day of our lives.
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on Our Favorite Sports Teams
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 9. Our hopes and dreams
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 21. Your favorite way to give back to your community.
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 41. Our favorite quotes
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on Sharing Each Other's Current Jobs
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 3. The most interesting places we've traveled to and what we learned from them.
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 40. Our lessons for the world
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 16. The things that make us feel loved
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 24. Your favorite way to say "I love you."
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 5. Our favorite movies and why we love them.
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 3. Sharing each others current jobs
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 21. Our favorite movies
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 25. Our favorite places to go
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 3. Our favorite places to travel.
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 34. Our regrets from the past
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 10. The things we're most proud of
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 10. Our favorite people and why we love them.
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 19. The things that make us feel inspired
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 1. The best thing that happened to you this week.
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on Our Favorite Jokes to Tell Each Other
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 26. Our favorite things to do
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on Our Favorite Ways to Relax
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 12. Our fears and insecurities
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 14. Your favorite video game.
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 10. The things we want to do before we die.
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 33. Our fears for the future
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 17. The things that make us laugh
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on Our Favorite Foods
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 7. The people who have influenced us the most.
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 10. The most important things in our lives
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on Our Favorite Places to Visit
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 7. Our plans for the future
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 8. The things we are most grateful for.
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 25. Your favorite way to be loved.
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 1. The best way to make a difference in the world.
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 9. The things we're most worried about
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on Our Secrets
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 11. Our favorite movies and TV shows
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 5. Our dream vacations
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 4. The craziest things that have ever happened to us
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 20. The things that make us feel alive
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on Our Least Favorite TV Shows
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 3. Our favorite movies of all time
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 13. The things that make us laugh
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 11. Our hopes and dreams for the future
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 5. The most important things we've learned in life and how we're applying them to our own lives.
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on Our Biggest Fears
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 10. Your favorite color.
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 6. The most memorable moments of our lives
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 9. The things we're most grateful for and how we're showing gratitude in our lives.
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 16. The people we admire most
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on Our Love for Each Other
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 11. Your favorite animal.
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 18. The things that make us feel hopeful
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 20. Your favorite way to learn something new.
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 16. Your favorite thing to do in your free time.
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 10. The things we're most excited about and what we're looking forward to in the future.
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 7. The things we're most afraid of
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 27. Our favorite ways to relax
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 10. Our favorite foods and why we love them.
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 6. The best places to travel
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 10. The things we'd like to change about our lives
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 1. The best way to spend a summer vacation
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 6. The things we're most passionate about
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on Future Plans for Life
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 19. Your favorite way to travel.
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 8. Your favorite song.
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 3. Our favorite books and why we love them
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 9. The biggest mistakes we've made
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 8. The most important people in our lives and what they mean to us.
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 9. Our favorite songs and why we love them.
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 8. Our favorite foods and why we love them.
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 4. Our biggest fears and how we're working to overcome them.
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on Our Biggest Pet Peeves
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 8. The things we're most excited about
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 6. Your favorite book.
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on Our Least Favorite Things to Do Together
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 32. Our dreams for the future
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on Our Least Favorite Music
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 9. The things we're most grateful for
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 2. The most memorable day of our lives
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 6. The songs that have gotten us through tough times.
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on Our Least Favorite Movies
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 12. Our favorite music and bands
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 12. Your favorite sport.
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 5. Future plans for life
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 17. The things that make us feel grateful
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 38. Our fears for the world
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 4. The books that have changed our lives.
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 6. Our favorite books and why we love them.
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on Our Favorite TV Shows
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 17. Your favorite way to relax.
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 7. Your favorite movie.
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 5. Your favorite place in the world.
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 5. The places we'd most like to travel to
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 3. The latest movies we've seen and what we thought of them
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on Our Favorite Books and Why We Love Them
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on Our Least Favorite Places to Visit
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on Our Favorite Things to Do Together
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 5. The movies that have made us laugh the hardest.
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on Our Biggest Dreams
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 6. Our favorite recipes
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 4. Our favorite TV shows and why we love them
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 9. Your favorite food.
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 8. The challenges we've faced and how we overcame them
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 44. Our favorite jokes
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 1. The best way to spend a summer vacation.
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 9. Our favorite places to go and why we love them.
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 36. Our hopes for the world
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 7. Our favorite movies and why we love them.
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 22. Our favorite TV shows
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 9. The things we'd like to change about ourselves
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 2. The most embarrassing thing that has ever happened to us.
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 13. Our favorite foods and restaurants
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 43. Our favorite sayings
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 10. The things we'd like to change about ourselves
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 28. Our favorite ways to spend time with friends
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 3. Your biggest fear.
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 22. Your favorite way to make a difference in the world.
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on Our Favorite Books to Read Aloud to Each Other
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on Our Favorite Things to Talk About
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 7. Our favorite TV shows and why we love them.
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 4. Our favorite TV shows
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on Our Most Embarrassing Moments
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on 9. Our hopes and dreams for the future.
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on Our Favorite Movies
+Example Output:
+Name1: String1
+Name2:String2
+Write a conversation history between two friends talking on Our Support for Each Other
+Example Output:
+Name1: String1
+Name2:String2
