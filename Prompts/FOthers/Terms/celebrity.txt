@@ -1,0 +1,246 @@
+Robert S. Abbott
+Thomas Adams
+Alvin Ailey
+Giorgio Armani
+Mary Kay Ash
+Steve Ballmer
+P.T. Barnum
+Warren Bechtel
+Jeff Bezos
+Clarence Birdseye
+Michael Bloomberg
+Richard Branson
+William Boeing
+Warren Buffett
+Andrew Carnegie
+Steve Case
+Jim Clark
+Walter Chrysler
+Michael Dell
+Fred DeLuca
+Walt Disney
+Arthur Dorrance
+George Eastman
+Thomas Edison
+Larry Ellison
+Debbi Fields
+Edward Filene
+David Filo
+Donald and Doris Fisher
+Steve Forbes
+Henry Ford
+Ernest & Julio Gallo
+Frank Gannett
+Bill Gates
+P. Giannini
+Samuel Goldwyn
+Walt Goodridge
+Leo Goodwin
+Barry Gordy
+Andrew Grove
+Joyce Hall
+Ray Kroc
+Ralph Lauren
+William Levitt
+Henry Luce
+John Mackey
+J. W. Marriott
+Louis B. Mayer
+William McGowan
+Vince McMahon
+Scott McNealy
+Judi Sheppard Missett
+Gordon Moore
+Andrew Morrison
+Rupert Murdoch
+Pierre Omidyar
+David Packard
+William S. Paley
+Ross Perot
+T. Boone Pickens
+Jay Pritzker
+Ralph Roberts
+John D. Rockefeller
+Carlos Santana
+David Sarnoff
+Howard Schultz
+Charles Schwab
+Richard W. Sears
+Colonel Sanders
+Eric Schmidt
+Russell Simmons
+Fred Smith
+Charles C. Spaulding
+Gloria Steinem
+Martha Stewart
+Dave Thomas
+Donald Trump
+Ted Turner
+Madam C. J. Walker
+Sam Walton
+Thomas Watson, Sr.
+Jack Welch
+Meg Whitman
+Oprah Winfrey
+Steve Wynn
+Mark Zuckerberg
+Elon Musk
+Jeff Bezos
+Jack Ma
+Richard Branson
+Larry Page
+Sergey Brin
+Marissa Mayer
+Tim Cook
+Satya Nadella
+Mark Pincus
+Sheryl Sandberg
+Dustin Moskovitz
+Eduardo Saverin
+Reid Hoffman
+George Washington (1789-1797)
+John Adams (1797-1801)
+Thomas Jefferson (1801-1809)
+James Madison (1809-1817)
+James Monroe (1817-1825)
+John Quincy Adams (1825-1829)
+Andrew Jackson (1829-1837)
+Martin Van Buren (1837-1841)
+William Henry Harrison (1841)
+John Tyler (1841-1845)
+James K. Polk (1845-1849)
+Zachary Taylor (1849-1850)
+Millard Fillmore (1850-1853)
+Franklin Pierce (1853-1857)
+James Buchanan (1857-1861)
+Abraham Lincoln (1861-1865)
+Andrew Johnson (1865-1869)
+Ulysses S. Grant (1869-1877)
+Rutherford B. Hayes (1877-1881)
+James Garfield (1881)
+Chester A. Arthur (1881-1885)
+Grover Cleveland (1885-1889)
+Benjamin Harrison (1889-1893)
+Grover Cleveland (1893-1897)
+William McKinley (1897-1901)
+Theodore Roosevelt (1901-1909)
+William Howard Taft (1909-1913)
+Woodrow Wilson (1913-1921)
+Warren G. Harding (1921-1923)
+Calvin Coolidge (1923-1929)
+Herbert Hoover (1929-1933)
+Franklin D. Roosevelt (1933-1945)
+Harry S. Truman (1945-1953)
+Dwight D. Eisenhower (1953-1961)
+John F. Kennedy (1961-1963)
+Lyndon B. Johnson (1963-1969)
+Richard Nixon (1969-1974)
+Gerald Ford (1974-1977)
+Jimmy Carter (1977-1981)
+Ronald Reagan (1981-1989)
+George H. W. Bush (1989-1993)
+Bill Clinton (1993-2001)
+George W. Bush (2001-2009)
+Barack Obama (2009-2017)
+Donald Trump (2017-2021)
+Joe Biden (2021-present)
+Adele
+Al Green
+Alicia Keys
+Amy Winehouse
+Ann Wilson
+Annie Lennox
+ANOHNI
+Aretha Franklin
+Axl Rose
+Beyoncé
+Billie Holiday
+Björk
+Bob Dylan
+Bonnie Raitt
+Bono
+Bruce Springsteen
+Cat Stevens
+Christina Aguilera
+Curtis Mayfield
+David Bowie
+David Byrne
+Diana Ross
+Dolly Parton
+Donna Summer
+Dusty Springfield
+Ella Fitzgerald
+Elliott Smith
+Elton John
+Elvis Presley
+Emmylou Harris
+Etta James
+Faith No More
+Fiona Apple
+Florence Welch
+Frank Sinatra
+Frankie Valli
+Freddie Mercury
+Gladys Knight
+Glenn Danzig
+Ian Curtis
+Iggy Pop
+James Brown
+Janis Joplin
+Jeff Buckley
+Jim Morrison
+Joanna Newsom
+Joe Cocker
+Joe Strummer
+John Lennon
+Johnny Cash
+Josh Groban
+Justin Bieber
+Lady Gaga
+Lana Del Rey
+Lauryn Hill
+Lenny Kravitz
+Lil Nas X
+Mariah Carey
+Michael Jackson
+Miley Cyrus
+Morrissey
+Ne-Yo
+Nicki Minaj
+Olivia Rodrigo
+Ozzy Osbourne
+Paul McCartney
+Pink
+Prince
+Rihanna
+Robert Plant
+Sam Smith
+Shakira
+Stevie Wonder
+Taylor Swift
+The Weeknd
+Tina Turner
+Tom Jones
+Whitney Houston
+XXXTentacion
+Zayn Malik
+Barbra Streisand
+Celine Dion
+Cher
+David Gilmour
+Elvis Costello
+Frank Ocean
+George Michael
+Green Day
+John Mayer
+Kanye West
+Kendrick Lamar
+Lady Antebellum
+Madonna
+Michael Buble
+Miley Cyrus
+One Direction
+Ozzy Osbourne
+Pink Floyd
+Queen
+The Rolling Stones

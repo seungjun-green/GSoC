@@ -9,9 +9,21 @@ def generatePrompts(input, output):
     helper.saveList2FIle(output, prompts)
 
 
-generatePrompts('Arts and Culture', 'artPrompts')
-generatePrompts('environment', 'envPrompts')
-generatePrompts('Health', 'HealthPrompts')
-generatePrompts('human', 'humanPrompts')
-generatePrompts('investingTitles.txt', 'invPrompts')
-generatePrompts('Politics', 'politicsPrompts')
+generatePrompts('./Terms/Arts and Culture.txt', './Prompts/artPrompts.txt')
+generatePrompts('./Terms/environment.txt', './Prompts/envPrompts.txt')
+generatePrompts('./Terms/Health.txt', './Prompts/HealthPrompts.txt')
+generatePrompts('./Terms/human.txt', './Prompts/humanPrompts.txt')
+generatePrompts('./Terms/investingTerms.txt', './Prompts/invPrompts.txt')
+generatePrompts('./Terms/Politics.txt', './Prompts/politicsPrompts.txt')
+
+
+fileNames = [
+'./Prompts/artPrompts.txt',
+'./Prompts/envPrompts.txt',
+'./Prompts/HealthPrompts.txt',
+'./Prompts/humanPrompts.txt',
+'./Prompts/invPrompts.txt',
+'./Prompts/politicsPrompts.txt'
+]
+
+helper.combine_text_files(fileNames, 'newsPrompts.txt')

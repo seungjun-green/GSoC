@@ -1,0 +1,232 @@
+Acetaminophen
+Acyclovir
+Albuterol
+Alprazolam
+Amoxicillin
+Ampicillin
+Atorvastatin
+Azithromycin
+Benazepril
+Bupropion
+Calcium carbonate
+Carbamazepine
+Cetirizine
+Chlorothiazide
+Ciprofloxacin
+Clonazepam
+Clopidogrel
+Codeine
+Cortisol
+Digoxin
+Diphenhydramine
+Doxepin
+Fluconazole
+Fluoxetine
+Gemfibrozil
+Gabapentin
+Hydrochlorothiazide
+Ibuprofen
+Insulin
+Lisinopril
+Losartan
+Metoprolol
+Metformin
+Morphine
+Naproxen
+Omeprazole
+Oxycodone
+Penicillin
+Phentermine
+Pravastatin
+Prednisone
+Propranolol
+Prozac
+Ranitidine
+Ritonavir
+Salmeterol
+Sertraline
+Sildenafil
+Sodium bicarbonate
+Statin
+Sulfamethoxazole
+Tamoxifen
+Temazepam
+Terazosin
+Tetracycline
+Theophylline
+Thiazides
+Tramadol
+Triazolam
+Tylenol
+Valsartan
+Warfarin
+Xanax
+Zantac
+Zoloft
+Acetazolamide
+Acarbose
+Acetaminophen with codeine
+Acetaminophen with hydrocodone
+Adalimumab
+Alprostadil
+Amantadine
+Amitriptyline
+Amoxicillin with clavulanic acid
+Ampicillin with sulbactam
+Androgens
+Anticoagulants
+Anticonvulsants
+Antidepressants
+Antifungals
+Antihistamines
+Antihypertensives
+Anti-inflammatory drugs
+Antimalarials
+Antineoplastics
+Antipsychotics
+Antivirals
+Bronchodilators
+Cancer drugs
+Cardiac drugs
+Central nervous system drugs
+Diabetes drugs
+Erectile dysfunction drugs
+Gastrointestinal drugs
+Gout drugs
+HIV drugs
+Immunosuppressants
+Pain relievers
+Respiratory drugs
+Steroids
+Acetaminophen
+Acyclovir
+Alprazolam
+Amlodipine
+Amoxicillin
+Atorvastatin
+Azithromycin
+Bupropion
+Captopril
+Carbamazepine
+Celecoxib
+Chlorothiazide
+Clonidine
+Clopidogrel
+Codeine
+Cortisol
+Cymbalta
+Decongestants
+Diazepam
+Digoxin
+Doxepin
+Fluoxetine
+Gabapentin
+Gemfibrozil
+Glipizide
+Glyburide
+Hydrochlorothiazide
+Ibuprofen
+Insulin
+Lisinopril
+Lovastatin
+Metoprolol
+Metformin
+Morphine
+Naproxen
+Omeprazole
+Oxycodone
+Penicillin
+Pravastatin
+Proton pump inhibitors
+Propranolol
+Risperdal
+Salbutamol
+Sertraline
+Singulair
+Simvastatin
+Statins
+Sulfamethoxazole/trimethoprim
+Temazepam
+Tetracycline
+Theophylline
+Thiazide diuretics
+Topiramate
+Tramadol
+Trimethoprim
+Valium
+Warfarin
+Xanax
+Zoloft
+Acetazolamide
+Albuterol
+Albuterol/ipratropium
+Allopurinol
+Amitriptyline
+Amoxicillin/clavulanic acid
+Atenolol
+Azithromycin/cefuroxime
+Baclofen
+Betamethasone
+Bisoprolol
+Buspirone
+Calcium carbonate
+Calcium channel blockers
+Carisoprodol
+Cimetidine
+Ciprofloxacin
+Clonazepam
+Clotrimazole
+Codeine/guaifenesin
+Colchicine
+Corticosteroids
+Cyclobenzaprine
+Cysteine
+Dapagliflozin
+Decongestants/expectorants
+Diclofenac
+Digoxin/digoxin immune Fab
+Diltiazem
+Dobutamine
+Doxepin/hydroxyzine
+Dronabinol
+Epinephrine
+Erythromycin
+Escitalopram
+Fluconazole
+Fluticasone
+Gabapentin/pregabalin
+Gemfibrozil/fenofibrate
+Glyburide/metformin
+Guaifenesin
+Hydrocortisone
+Hydrochlorothiazide/lisinopril
+Ibuprofen/naproxen
+Imipramine
+Insulin lispro
+Insulin glargine
+Labetalol
+Lansoprazole
+Levetiracetam
+Lisinopril/hydrochlorothiazide
+Lorazepam
+Losartan
+Magnesium sulfate
+Methylprednisolone
+Metformin/rosuvastatin
+Metoprolol/hydrochlorothiazide
+Morphine sulfate
+Naproxen/ibuprofen
+Omeprazole/lansoprazole
+Ondansetron
+Oxcarbazepine
+Paroxetine
+Penicillin V
+Phenytoin
+Pravastatin/rosuvastatin
+Prochlorperazine
+Promethazine
+Proton pump inhibitors/H2 blockers
+Pyrantel pamoate
+Quetiapine
+Ramipril
+Risperidone

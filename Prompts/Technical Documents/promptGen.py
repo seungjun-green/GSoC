@@ -10,9 +10,21 @@ def generatePrompts(input, output):
 
     helper.saveList2FIle(output, prompts)
 
-generatePrompts('AeroSpaceTerms.txt', 'AeroSpacePrompts.txt')
-generatePrompts('CivilEngTemts.txt', 'CivilEngPrompts.txt')
-generatePrompts('chemicalEngTerms.txt', 'ChemicalEngTerms.txt')
-generatePrompts('NanotechTerms.txt', 'NanoTechPrompts.txt')
-generatePrompts('BioTerms.txt', 'BioPrompts.txt')
-generatePrompts('computerScienceTerms.txt', 'CSPrompts.txt')
+generatePrompts('./Terms/AeroSpaceTerms.txt', './Prompts/AeroSpacePrompts.txt')
+generatePrompts('./Terms/CivilEngTerms.txt', './Prompts/CivilEngPrompts.txt')
+generatePrompts('./Terms/chemicalEngTerms.txt', './Prompts/ChemicalEngTerms.txt')
+generatePrompts('./Terms/NanoTechTerms.txt', './Prompts/NanoTechPrompts.txt')
+generatePrompts('./Terms/BioTerms.txt', './Prompts/BioPrompts.txt')
+generatePrompts('./Terms/csTerms.txt', './Prompts/CSPrompts.txt')
+
+
+fileNames = ['./Prompts/AeroSpacePrompts.txt',
+             './Prompts/CivilEngPrompts.txt',
+             './Prompts/ChemicalEngTerms.txt',
+             './Prompts/NanoTechPrompts.txt',
+             './Prompts/BioPrompts.txt',
+             './Prompts/CSPrompts.txt'
+             ]
+
+
+helper.combine_text_files(fileNames, 'techPrompts.txt')

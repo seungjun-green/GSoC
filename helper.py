@@ -7,6 +7,14 @@ def file2List(fileName):
             res.add(curr)
     return res
 
+def file2List2(fileName):
+    res = []
+    with open(fileName, 'r') as f:
+        all = f.readlines()
+        for curr in all:
+            res.append(curr)
+    return res
+
 
 def saveList2FIle(fileName, data):
     with open(fileName, 'w') as f:
@@ -28,5 +36,12 @@ def process_file(input_filename, output_filename):
 
 
 
+
+def combine_text_files(input_files, output_file):
+    with open(output_file, 'w') as outfile:
+        for file_name in input_files:
+            with open(file_name, 'r') as infile:
+                outfile.write(infile.read())
+            outfile.write('\n')
 
 

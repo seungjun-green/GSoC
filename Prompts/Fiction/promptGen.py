@@ -4,18 +4,30 @@ def generatePrompts(input, output, type):
 
     prompts = []
     for term in terms:
-        prompts.append(f"Write a short {type} fictional short where the title is {term.strip()}.\n")
+        prompts.append(f"Write a{'n' if type.startswith('a') else ''} {type} fictional story where the title is {term.strip()}.\n")
 
     helper.saveList2FIle(output, prompts)
 
 
 
-generatePrompts('AdventureTerms', 'AdventurePrompts', 'adventure')
-generatePrompts('fantasyTerms', 'fantasyPrompts', 'fantasy')
-generatePrompts('kidsTerms', 'kidsPrompts', 'kid')
-generatePrompts('mysteryTerms', 'mysteryPrompts', 'mystery')
-generatePrompts('spaceTerms', 'spaePrompts', 'space')
-generatePrompts('thrillerTerms', 'thrillerPrompts', 'thriller')
+generatePrompts('./Terms/AdventureTerms', './Prompts/adventurePrompts.txt', 'adventure')
+generatePrompts('./Terms/fantasyTerms', './Prompts/fantasyPrompts.txt', 'fantasy')
+generatePrompts('./Terms/kidsTerms', './Prompts/kidsPrompts.txt', 'kid')
+generatePrompts('./Terms/mysteryTerms', './Prompts/mysteryPrompts.txt', 'mystery')
+generatePrompts('./Terms/spaceTerms', './Prompts/spaePrompts.txt', 'science')
+generatePrompts('./Terms/thrillerTerms', './Prompts/thrillerPrompts.txt', 'thriller')
+
+fileNames = ['./Prompts/adventurePrompts.txt',
+             './Prompts/fantasyPrompts.txt',
+             './Prompts/kidsPrompts.txt',
+             './Prompts/mysteryPrompts.txt',
+             './Prompts/spaePrompts.txt',
+             './Prompts/thrillerPrompts.txt'
+             ]
+
+
+helper.combine_text_files(fileNames, 'fictionPrompts.txt')
+
 
 
 

@@ -1,0 +1,62 @@
+ACAZ C.2
+Adamoli-Cattani fighter
+AD Scout
+AEG D.I, D.II & D.III
+AEG Dr.I
+Aerfer Ariete
+Aerfer Sagittario 2
+Aero Ae 02
+Aero Ae 04
+Aero A.18
+Aero A.19
+Aero A.20
+Aero A.102
+Aeromarine PG-1
+Hawker Siddeley Kestrel FGA.1
+Hawker Nimrod
+Hawker Osprey
+Hawker P.1081
+Hawker P.V.3
+Hawker Sea Fury
+Hawker Sea Hawk
+Hawker Tempest
+Hawker Tornado
+Hawker Typhoon
+Hawker Woodcock/Danecock/Dankok
+Heinkel HD 23
+Heinkel HD 37
+Heinkel HD 38
+Heinkel HD 43
+Heinkel He 49
+Heinkel He 51
+Heinkel He 74
+Heinkel He 100/He 113
+Heinkel He 111
+Heinkel He 177 Greif
+Heinkel He 219 Uhu
+Ilyushin Il-2
+Ilyushin Il-28
+Ilyushin Il-76
+Junkers Ju 87 Stuka
+Junkers Ju 88
+Junkers Ju 188
+Junkers Ju 352
+Lockheed F-104 Starfighter
+McDonnell Douglas F-15 Eagle
+McDonnell Douglas F-18 Hornet
+Mikoyan MiG-15
+Mikoyan MiG-21
+Mikoyan MiG-29
+North American F-86 Sabre
+North American F-100 Super Sabre
+North American F-111 Aardvark
+Panavia Tornado
+Saab 35 Draken
+Sukhoi Su-27 Flanker
+Sukhoi Su-30 Flanker
+Tupolev Tu-16
+Tupolev Tu-22
+Tupolev Tu-95 Bear
+Vickers Valiant
+Vought F-8 Crusader
+XB-70 Valkyrie

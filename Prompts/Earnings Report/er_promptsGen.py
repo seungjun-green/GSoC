@@ -11,6 +11,6 @@ for company in sp500:
     ys = random.sample(Ys, 2)
     for q in qs:
         for y in ys:
-            prompts.append(f"Write an earnings report for {company.strip()} for {q} {y}.\n")
+            prompts.append(f"Write an earnings report for {company.strip()} for {q} of {y}.\n")
 
-helper.saveList2FIle('test', prompts)
+helper.saveList2FIle('erPrompts.txt', prompts)
