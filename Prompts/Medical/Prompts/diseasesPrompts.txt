@@ -1,0 +1,100 @@
+Write an expert-level document on Neurological disorders.
+Write an expert-level document on Renal failure.
+Write an expert-level document on Appendicitis.
+Write an expert-level document on Bronchiolitis.
+Write an expert-level document on Preeclampsia.
+Write an expert-level document on Epilepsy.
+Write an expert-level document on Nephrotic syndrome.
+Write an expert-level document on Ulcerative colitis.
+Write an expert-level document on Severe burns.
+Write an expert-level document on Cardiac arrest.
+Write an expert-level document on Cerebrovascular accident (stroke).
+Write an expert-level document on Alcohol withdrawal.
+Write an expert-level document on Asthma.
+Write an expert-level document on Asthma attack.
+Write an expert-level document on Cancer.
+Write an expert-level document on Wound infection.
+Write an expert-level document on Colitis.
+Write an expert-level document on Viral pneumonia.
+Write an expert-level document on Hypertensive crisis.
+Write an expert-level document on AIDS.
+Write an expert-level document on Uremia.
+Write an expert-level document on Mental illness.
+Write an expert-level document on Inflammatory bowel disease (IBD).
+Write an expert-level document on Aplastic anemia.
+Write an expert-level document on Respiratory failure.
+Write an expert-level document on Psoriasis.
+Write an expert-level document on Chronic kidney disease.
+Write an expert-level document on Bacteremia.
+Write an expert-level document on Tuberculosis.
+Write an expert-level document on Endometriosis.
+Write an expert-level document on Stroke.
+Write an expert-level document on Peritonitis.
+Write an expert-level document on Encephalitis.
+Write an expert-level document on Depression.
+Write an expert-level document on Liver failure.
+Write an expert-level document on Meningitis.
+Write an expert-level document on Inflammatory bowel disease.
+Write an expert-level document on Pregnancy complications.
+Write an expert-level document on Hepatic encephalopathy.
+Write an expert-level document on Heart failure.
+Write an expert-level document on Wilson's disease.
+Write an expert-level document on Yellow fever.
+Write an expert-level document on Dementia.
+Write an expert-level document on Coma.
+Write an expert-level document on Eating disorders.
+Write an expert-level document on Cardiomyopathy.
+Write an expert-level document on Influenza.
+Write an expert-level document on Severe acute respiratory syndrome (SARS).
+Write an expert-level document on Acute kidney injury.
+Write an expert-level document on Congestive heart failure.
+Write an expert-level document on Substance abuse.
+Write an expert-level document on Diverticulitis.
+Write an expert-level document on Addison's disease.
+Write an expert-level document on Vasculitis.
+Write an expert-level document on Cystic fibrosis.
+Write an expert-level document on Bacterial meningitis.
+Write an expert-level document on Diabetes.
+Write an expert-level document on Organ failure.
+Write an expert-level document on Lupus.
+Write an expert-level document on Eclampsia.
+Write an expert-level document on Sepsis.
+Write an expert-level document on Post-traumatic stress disorder (PTSD).
+Write an expert-level document on Kidney failure.
+Write an expert-level document on Systemic lupus erythematosus (SLE).
+Write an expert-level document on Withdrawal syndrome.
+Write an expert-level document on Multiple sclerosis.
+Write an expert-level document on HIV/AIDS.
+Write an expert-level document on Acute respiratory distress syndrome.
+Write an expert-level document on Burns.
+Write an expert-level document on Thyroid cancer.
+Write an expert-level document on Brain tumor.
+Write an expert-level document on Myocardial infarction.
+Write an expert-level document on Rabies.
+Write an expert-level document on Zika virus infection.
+Write an expert-level document on Newborns with health problems.
+Write an expert-level document on Pneumonia.
+Write an expert-level document on Diabetes mellitus.
+Write an expert-level document on Pulmonary embolism.
+Write an expert-level document on Hyperthyroidism.
+Write an expert-level document on Chronic obstructive pulmonary disease (COPD).
+Write an expert-level document on Bronchiectasis.
+Write an expert-level document on Diarrhea.
+Write an expert-level document on Brain aneurysm.
+Write an expert-level document on Crohn's disease.
+Write an expert-level document on Hepatitis.
+Write an expert-level document on Viral meningitis.
+Write an expert-level document on Hepatitis.
+Write an expert-level document on Malaria.
+Write an expert-level document on Organ transplant rejection.
+Write an expert-level document on Spinal cord injury.
+Write an expert-level document on Traumatic brain injury.
+Write an expert-level document on Pancreatitis.
+Write an expert-level document on Rheumatoid arthritis.
+Write an expert-level document on Severe injuries.
+Write an expert-level document on Anemia.
+Write an expert-level document on Delirium.
+Write an expert-level document on Bleeding disorders.
+Write an expert-level document on Heart attack.
+Write an expert-level document on Mental health problems.
+Write an expert-level document on Polycystic kidney disease.

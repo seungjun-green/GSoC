@@ -1,0 +1,500 @@
+Write a conversation history between pilot and control tower on Mid-air collision
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on The camaraderie of being part of a flight crew
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Their hopes and dreams for the future
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Their flying experiences
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on The beauty of the world from above
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Fire on board death
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Fire death
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Depressurization injury
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Water landing
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on The history of aviation
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Fire alarm discharge
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on The thrill of flying
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Allergic reaction death
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Smoke on board
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Their hobbies and interests
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on In-flight fight
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Cabin fire
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on The latest aviation news
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Engine failure
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Halon fire
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Fuel fire
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on The importance of staying positive
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Loss of cabin pressure
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Dry ice fire
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Asthma attack
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on In-flight fight death
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Food service fire
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Fire slide discharge
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Fire door malfunction
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Hijacking
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Bomb threat death
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Fire axe malfunction
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Heart attack
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Evacuation
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Seizure death
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Oxygen fire
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Allergic reaction
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Heart attack death
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Bird strike
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Lavatory fire
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on The importance of freedom
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Smoke on board death
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Electrical fire
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Hydraulic fire
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Fire extinguisher discharge
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Fire escape discharge
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Fire door discharge
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Hijacking death
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Childbirth death
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Crash landing death
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Lightning strike injury
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Other pilots they know
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Fire related incident death
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Foam fire
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Bird strike injury
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Lightning strike injury death
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Their experiences in combat
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on The flight plan
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Asthma attack death
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Lightning strike
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Hail injury death
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on The scenery
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Depressurization injury death
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Fire window malfunction
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Powder fire
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Their favorite books, movies, and music
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on The sacrifices that have been made for peace
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Loss of cabin pressure injury
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Medical emergency
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Fire suppression system malfunction
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Loss of cabin pressure injury death
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Hail
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Fire
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Depressurization
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Stroke death
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Diabetic emergency death
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Turbulence injury death
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Terrorist attack death
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Bird strike injury death
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Water fire
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Diabetic emergency
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Their families and friends back home
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Fire alarm malfunction
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Fire detection system discharge
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Oxygen mask deployment
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Terrorist attack
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on The passengers
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Fire detection system malfunction
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on The hope for a better future
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Childbirth
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Fire slide malfunction
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Turbulence
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Fire injury
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Their thoughts on the war
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Turbulence injury
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Oxygen mask deployment injury death
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Pregnancy complication
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Cargo fire
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Fire escape malfunction
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Stroke
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Medical emergency death
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Engine fire
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Hail injury
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Medical equipment fire
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on The weather
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Mid-air collision injury death
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Fire axe discharge
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Seizure
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Fire extinguisher malfunction
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Fire suppression system discharge
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Fire window discharge
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Mid-air collision injury
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on The aircraft
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Liquid nitrogen fire
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on The challenges of being a pilot in wartime
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on The importance of teamwork
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on The latest news from the war front
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Water landing death
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Bomb threat
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Fire on board
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Pregnancy complication death
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Oxygen mask deployment injury
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Crash landing
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Smoke
+Example Output:
+Pilot: String1
+control tower: String2
+Write a conversation history between pilot and control tower on Evacuation death
+Example Output:
+Pilot: String1
+control tower: String2

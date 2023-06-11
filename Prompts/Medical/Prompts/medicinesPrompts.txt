@@ -1,0 +1,186 @@
+Write an expert-level document on Penicillin.
+Write an expert-level document on Erythromycin.
+Write an expert-level document on Prozac.
+Write an expert-level document on Losartan.
+Write an expert-level document on Acarbose.
+Write an expert-level document on Glyburide/metformin.
+Write an expert-level document on Lansoprazole.
+Write an expert-level document on Calcium carbonate.
+Write an expert-level document on Sertraline.
+Write an expert-level document on Zantac.
+Write an expert-level document on Penicillin V.
+Write an expert-level document on Hydrochlorothiazide.
+Write an expert-level document on Cardiac drugs.
+Write an expert-level document on Central nervous system drugs.
+Write an expert-level document on Antimalarials.
+Write an expert-level document on Diphenhydramine.
+Write an expert-level document on Insulin.
+Write an expert-level document on Pravastatin.
+Write an expert-level document on Baclofen.
+Write an expert-level document on Triazolam.
+Write an expert-level document on Thiazide diuretics.
+Write an expert-level document on Ampicillin.
+Write an expert-level document on Risperidone.
+Write an expert-level document on Omeprazole/lansoprazole.
+Write an expert-level document on Pravastatin/rosuvastatin.
+Write an expert-level document on Azithromycin/cefuroxime.
+Write an expert-level document on Ondansetron.
+Write an expert-level document on Albuterol.
+Write an expert-level document on Clonazepam.
+Write an expert-level document on Ibuprofen.
+Write an expert-level document on Sulfamethoxazole.
+Write an expert-level document on Dapagliflozin.
+Write an expert-level document on Antineoplastics.
+Write an expert-level document on Antihistamines.
+Write an expert-level document on Temazepam.
+Write an expert-level document on Acetaminophen.
+Write an expert-level document on Antidepressants.
+Write an expert-level document on Glyburide.
+Write an expert-level document on Doxepin/hydroxyzine.
+Write an expert-level document on Hydrochlorothiazide/lisinopril.
+Write an expert-level document on Guaifenesin.
+Write an expert-level document on Tetracycline.
+Write an expert-level document on Antipsychotics.
+Write an expert-level document on Chlorothiazide.
+Write an expert-level document on Ampicillin with sulbactam.
+Write an expert-level document on Ritonavir.
+Write an expert-level document on Steroids.
+Write an expert-level document on Oxycodone.
+Write an expert-level document on Metformin.
+Write an expert-level document on Ciprofloxacin.
+Write an expert-level document on Carisoprodol.
+Write an expert-level document on Clonidine.
+Write an expert-level document on Propranolol.
+Write an expert-level document on Fluconazole.
+Write an expert-level document on Simvastatin.
+Write an expert-level document on Methylprednisolone.
+Write an expert-level document on Alprostadil.
+Write an expert-level document on Cetirizine.
+Write an expert-level document on Prednisone.
+Write an expert-level document on Colchicine.
+Write an expert-level document on Decongestants.
+Write an expert-level document on Prochlorperazine.
+Write an expert-level document on Naproxen.
+Write an expert-level document on Allopurinol.
+Write an expert-level document on Promethazine.
+Write an expert-level document on Acetaminophen with codeine.
+Write an expert-level document on Erectile dysfunction drugs.
+Write an expert-level document on Theophylline.
+Write an expert-level document on Antihypertensives.
+Write an expert-level document on Fluoxetine.
+Write an expert-level document on Sulfamethoxazole/trimethoprim.
+Write an expert-level document on Imipramine.
+Write an expert-level document on Amantadine.
+Write an expert-level document on Acyclovir.
+Write an expert-level document on Benazepril.
+Write an expert-level document on Amoxicillin.
+Write an expert-level document on Digoxin.
+Write an expert-level document on Labetalol.
+Write an expert-level document on Diazepam.
+Write an expert-level document on Cyclobenzaprine.
+Write an expert-level document on Hydrocortisone.
+Write an expert-level document on Terazosin.
+Write an expert-level document on Trimethoprim.
+Write an expert-level document on Digoxin/digoxin immune Fab.
+Write an expert-level document on Codeine/guaifenesin.
+Write an expert-level document on Cortisol.
+Write an expert-level document on Amoxicillin with clavulanic acid.
+Write an expert-level document on Antifungals.
+Write an expert-level document on Lisinopril/hydrochlorothiazide.
+Write an expert-level document on Lisinopril.
+Write an expert-level document on Metoprolol.
+Write an expert-level document on Quetiapine.
+Write an expert-level document on Tylenol.
+Write an expert-level document on Acetaminophen with hydrocodone.
+Write an expert-level document on Corticosteroids.
+Write an expert-level document on Atorvastatin.
+Write an expert-level document on Omeprazole.
+Write an expert-level document on Respiratory drugs.
+Write an expert-level document on Singulair.
+Write an expert-level document on Dronabinol.
+Write an expert-level document on Insulin lispro.
+Write an expert-level document on Ramipril.
+Write an expert-level document on Lovastatin.
+Write an expert-level document on Epinephrine.
+Write an expert-level document on Sodium bicarbonate.
+Write an expert-level document on Dobutamine.
+Write an expert-level document on Bronchodilators.
+Write an expert-level document on Decongestants/expectorants.
+Write an expert-level document on Gemfibrozil.
+Write an expert-level document on Gemfibrozil/fenofibrate.
+Write an expert-level document on Phentermine.
+Write an expert-level document on Ranitidine.
+Write an expert-level document on Statin.
+Write an expert-level document on Antivirals.
+Write an expert-level document on Betamethasone.
+Write an expert-level document on Clopidogrel.
+Write an expert-level document on Lorazepam.
+Write an expert-level document on Pyrantel pamoate.
+Write an expert-level document on Magnesium sulfate.
+Write an expert-level document on Zoloft.
+Write an expert-level document on Calcium channel blockers.
+Write an expert-level document on Carbamazepine.
+Write an expert-level document on Amitriptyline.
+Write an expert-level document on Azithromycin.
+Write an expert-level document on Paroxetine.
+Write an expert-level document on Gout drugs.
+Write an expert-level document on Proton pump inhibitors/H2 blockers.
+Write an expert-level document on Adalimumab.
+Write an expert-level document on Diltiazem.
+Write an expert-level document on Gabapentin/pregabalin.
+Write an expert-level document on Codeine.
+Write an expert-level document on Amoxicillin/clavulanic acid.
+Write an expert-level document on Salmeterol.
+Write an expert-level document on Morphine.
+Write an expert-level document on Salbutamol.
+Write an expert-level document on Clotrimazole.
+Write an expert-level document on Insulin glargine.
+Write an expert-level document on Tamoxifen.
+Write an expert-level document on Bisoprolol.
+Write an expert-level document on Anticoagulants.
+Write an expert-level document on Fluticasone.
+Write an expert-level document on Valium.
+Write an expert-level document on Anti-inflammatory drugs.
+Write an expert-level document on Levetiracetam.
+Write an expert-level document on Ibuprofen/naproxen.
+Write an expert-level document on Albuterol/ipratropium.
+Write an expert-level document on Sildenafil.
+Write an expert-level document on Tramadol.
+Write an expert-level document on Metformin/rosuvastatin.
+Write an expert-level document on Cimetidine.
+Write an expert-level document on Cysteine.
+Write an expert-level document on Oxcarbazepine.
+Write an expert-level document on Captopril.
+Write an expert-level document on Risperdal.
+Write an expert-level document on Glipizide.
+Write an expert-level document on Doxepin.
+Write an expert-level document on Acetazolamide.
+Write an expert-level document on Celecoxib.
+Write an expert-level document on Escitalopram.
+Write an expert-level document on Alprazolam.
+Write an expert-level document on Anticonvulsants.
+Write an expert-level document on Immunosuppressants.
+Write an expert-level document on HIV drugs.
+Write an expert-level document on Gabapentin.
+Write an expert-level document on Diclofenac.
+Write an expert-level document on Xanax.
+Write an expert-level document on Phenytoin.
+Write an expert-level document on Topiramate.
+Write an expert-level document on Warfarin.
+Write an expert-level document on Diabetes drugs.
+Write an expert-level document on Thiazides.
+Write an expert-level document on Gastrointestinal drugs.
+Write an expert-level document on Cymbalta.
+Write an expert-level document on Proton pump inhibitors.
+Write an expert-level document on Statins.
+Write an expert-level document on Buspirone.
+Write an expert-level document on Cancer drugs.
+Write an expert-level document on Amlodipine.
+Write an expert-level document on Bupropion.
+Write an expert-level document on Morphine sulfate.
+Write an expert-level document on Naproxen/ibuprofen.
+Write an expert-level document on Atenolol.
+Write an expert-level document on Metoprolol/hydrochlorothiazide.
+Write an expert-level document on Pain relievers.
+Write an expert-level document on Valsartan.
+Write an expert-level document on Androgens.

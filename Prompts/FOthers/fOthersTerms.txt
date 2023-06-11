@@ -1,0 +1,680 @@
+Statue of Liberty, United States
+Eiffel Tower, France
+St. Basil's Cathedral, Russia
+Blue Dome Church, Santorini, Greece
+Pyramids of Giza, Egypt
+Taj Mahal, India
+Great Wall of China
+Colosseum, Italy
+Sagrada Familia, Spain
+Christ the Redeemer, Brazil
+Forbidden City, China
+Angkor Wat, Cambodia
+Machu Picchu, Peru
+Acropolis, Greece
+Leaning Tower of Pisa, Italy
+Sydney Opera House, Australia
+Buckingham Palace, United Kingdom
+White House, United States
+Kremlin, Russia
+Temple of Poseidon, Greece
+Chichen Itza, Mexico
+Notre Dame Cathedral, France
+Golden Gate Bridge, United States
+Empire State Building, United States
+Burj Khalifa, United Arab Emirates
+Petronas Twin Towers, Malaysia
+Taipei 101, Taiwan
+Shanghai Tower, China
+One World Trade Center, United States
+Willis Tower, United States
+CN Tower, Canada
+Sydney Tower, Australia
+Tokyo Tower, Japan
+Fernsehturm, Germany
+Ostankino Tower, Russia
+Torre Latinoamericana, Mexico
+One Canada Square, United Kingdom
+Marina Bay Sands, Singapore
+Burj al Arab, United Arab Emirates
+Bellagio Hotel, United States
+Venetian Resort, United States
+Mandalay Bay, United States
+Wynn Las Vegas, United States
+Caesars Palace, United States
+Paris Las Vegas, United States
+Cosmopolitan of Las Vegas, United States
+Palazzo Resort Hotel Casino, United States
+Venetian Macao, China
+City of Dreams, Macau
+Wynn Macau
+Galaxy Macau
+Sands Cotai Central
+Parisian Macao
+Morpheus
+The St. Regis Macao
+Grand Lisboa Palace
+Altin Yunus Hotel & Casino
+Rixos Premium Bodrum
+Kempinski Hotel Barbaros Bay
+Titanic Mardan Palace
+Fairmont Quasar Istanbul
+Jumeirah Beach Hotel
+Burj al Arab Jumeirah
+Madinat Jumeirah
+Atlantis, The Palm
+The Oberoi Beach Resort, Al Zorah
+The Ritz-Carlton, Dubai
+The Palace Downtown
+Four Seasons Resort Dubai at Jumeirah Beach
+Waldorf Astoria Dubai Palm Jumeirah
+Shangri-La Hotel, Dubai
+Jumeirah Emirates Towers
+Address Downtown Dubai
+Grand Hyatt Dubai
+Kempinski Hotel Mall of the Emirates
+JW Marriott Marquis Hotel Dubai
+Address Montgomerie
+Four Seasons Resort Sharjah
+Ritz-Carlton Sharjah
+Sofitel Dubai Jumeirah Beach Resort
+Radisson Blu Hotel, Dubai Waterfront
+Park Inn by Radisson Dubai Creek
+Wyndham Grand Plaza & Tower, Dubai
+Le Royal Meridien Beach Resort & Spa, Dubai
+Damac Maison Royale
+Millennium Al Barsha
+The Address The Resort City
+Grand Millennium Dubai
+Rotana Hotel & Tower, Jumeirah Beach
+Swiss-Belhotel Al Murooj Dubai
+Mövenpick Hotel Jumeirah Beach
+Fairmont Dubai
+The Address Downtown Burj Khalifa
+Rove Downtown
+Address Sky View
+The Ritz-Carlton, DIFC
+DoubleTree by Hilton Hotel Dubai – Jumeirah Lakes Towers
+InterContinental Dubai Marina
+The Westin Dubai Mina Seyahi Beach Resort & Marina
+Sheraton Dubai Creek Hotel & Towers
+Sydney Opera House, Australia
+Christ the Redeemer, Brazil
+The White House, USA
+Buckingham Palace, UK
+The Great Wall of China
+The Colosseum, Italy
+The Kremlin, Russia
+The Forbidden City, China
+The Taj Mahal, India
+The Pantheon, Rome, Italy
+The Sagrada Familia, Barcelona, Spain
+The Statue of Liberty, USA
+The Eiffel Tower, France
+The Empire State Building, USA
+The Chrysler Building, USA
+The Flatiron Building, USA
+The Willis Tower, USA
+The John Hancock Center, USA
+The Burj Khalifa, UAE
+The Petronas Twin Towers, Malaysia
+The CN Tower, Canada
+The Tokyo Tower, Japan
+The Ostankino Tower, Russia
+The Fernsehturm, Germany
+The Torre Latinoamericana, Mexico
+The One World Trade Center, USA
+The Shanghai Tower, China
+The Taipei 101, Taiwan
+The Lotte World Tower, South Korea
+The Burj Al Arab, UAE
+The Atlantis, The Palm, UAE
+The Marina Bay Sands, Singapore
+The Bellagio, USA
+The Venetian, USA
+The Wynn, USA
+The Palazzo, USA
+The Cosmopolitan, USA
+The Palms, USA
+The Fontainebleau, USA
+The Hard Rock Hotel, USA
+The Mandalay Bay, USA
+The Mirage, USA
+The Excalibur, USA
+The Luxor, USA
+The Tropicana, USA
+The Rio All Suite Hotel & Casino, USA
+The Sahara Las Vegas, USA
+The Wynn Palace, Macau
+The Galaxy Macau, Macau
+The Venetian Macao, Macau
+Robert S. Abbott
+Thomas Adams
+Alvin Ailey
+Giorgio Armani
+Mary Kay Ash
+Steve Ballmer
+P.T. Barnum
+Warren Bechtel
+Jeff Bezos
+Clarence Birdseye
+Michael Bloomberg
+Richard Branson
+William Boeing
+Warren Buffett
+Andrew Carnegie
+Steve Case
+Jim Clark
+Walter Chrysler
+Michael Dell
+Fred DeLuca
+Walt Disney
+Arthur Dorrance
+George Eastman
+Thomas Edison
+Larry Ellison
+Debbi Fields
+Edward Filene
+David Filo
+Donald and Doris Fisher
+Steve Forbes
+Henry Ford
+Ernest & Julio Gallo
+Frank Gannett
+Bill Gates
+P. Giannini
+Samuel Goldwyn
+Walt Goodridge
+Leo Goodwin
+Barry Gordy
+Andrew Grove
+Joyce Hall
+Ray Kroc
+Ralph Lauren
+William Levitt
+Henry Luce
+John Mackey
+J. W. Marriott
+Louis B. Mayer
+William McGowan
+Vince McMahon
+Scott McNealy
+Judi Sheppard Missett
+Gordon Moore
+Andrew Morrison
+Rupert Murdoch
+Pierre Omidyar
+David Packard
+William S. Paley
+Ross Perot
+T. Boone Pickens
+Jay Pritzker
+Ralph Roberts
+John D. Rockefeller
+Carlos Santana
+David Sarnoff
+Howard Schultz
+Charles Schwab
+Richard W. Sears
+Colonel Sanders
+Eric Schmidt
+Russell Simmons
+Fred Smith
+Charles C. Spaulding
+Gloria Steinem
+Martha Stewart
+Dave Thomas
+Donald Trump
+Ted Turner
+Madam C. J. Walker
+Sam Walton
+Thomas Watson, Sr.
+Jack Welch
+Meg Whitman
+Oprah Winfrey
+Steve Wynn
+Mark Zuckerberg
+Elon Musk
+Jeff Bezos
+Jack Ma
+Richard Branson
+Larry Page
+Sergey Brin
+Marissa Mayer
+Tim Cook
+Satya Nadella
+Mark Pincus
+Sheryl Sandberg
+Dustin Moskovitz
+Eduardo Saverin
+Reid Hoffman
+George Washington (1789-1797)
+John Adams (1797-1801)
+Thomas Jefferson (1801-1809)
+James Madison (1809-1817)
+James Monroe (1817-1825)
+John Quincy Adams (1825-1829)
+Andrew Jackson (1829-1837)
+Martin Van Buren (1837-1841)
+William Henry Harrison (1841)
+John Tyler (1841-1845)
+James K. Polk (1845-1849)
+Zachary Taylor (1849-1850)
+Millard Fillmore (1850-1853)
+Franklin Pierce (1853-1857)
+James Buchanan (1857-1861)
+Abraham Lincoln (1861-1865)
+Andrew Johnson (1865-1869)
+Ulysses S. Grant (1869-1877)
+Rutherford B. Hayes (1877-1881)
+James Garfield (1881)
+Chester A. Arthur (1881-1885)
+Grover Cleveland (1885-1889)
+Benjamin Harrison (1889-1893)
+Grover Cleveland (1893-1897)
+William McKinley (1897-1901)
+Theodore Roosevelt (1901-1909)
+William Howard Taft (1909-1913)
+Woodrow Wilson (1913-1921)
+Warren G. Harding (1921-1923)
+Calvin Coolidge (1923-1929)
+Herbert Hoover (1929-1933)
+Franklin D. Roosevelt (1933-1945)
+Harry S. Truman (1945-1953)
+Dwight D. Eisenhower (1953-1961)
+John F. Kennedy (1961-1963)
+Lyndon B. Johnson (1963-1969)
+Richard Nixon (1969-1974)
+Gerald Ford (1974-1977)
+Jimmy Carter (1977-1981)
+Ronald Reagan (1981-1989)
+George H. W. Bush (1989-1993)
+Bill Clinton (1993-2001)
+George W. Bush (2001-2009)
+Barack Obama (2009-2017)
+Donald Trump (2017-2021)
+Joe Biden (2021-present)
+Adele
+Al Green
+Alicia Keys
+Amy Winehouse
+Ann Wilson
+Annie Lennox
+ANOHNI
+Aretha Franklin
+Axl Rose
+Beyoncé
+Billie Holiday
+Björk
+Bob Dylan
+Bonnie Raitt
+Bono
+Bruce Springsteen
+Cat Stevens
+Christina Aguilera
+Curtis Mayfield
+David Bowie
+David Byrne
+Diana Ross
+Dolly Parton
+Donna Summer
+Dusty Springfield
+Ella Fitzgerald
+Elliott Smith
+Elton John
+Elvis Presley
+Emmylou Harris
+Etta James
+Faith No More
+Fiona Apple
+Florence Welch
+Frank Sinatra
+Frankie Valli
+Freddie Mercury
+Gladys Knight
+Glenn Danzig
+Ian Curtis
+Iggy Pop
+James Brown
+Janis Joplin
+Jeff Buckley
+Jim Morrison
+Joanna Newsom
+Joe Cocker
+Joe Strummer
+John Lennon
+Johnny Cash
+Josh Groban
+Justin Bieber
+Lady Gaga
+Lana Del Rey
+Lauryn Hill
+Lenny Kravitz
+Lil Nas X
+Mariah Carey
+Michael Jackson
+Miley Cyrus
+Morrissey
+Ne-Yo
+Nicki Minaj
+Olivia Rodrigo
+Ozzy Osbourne
+Paul McCartney
+Pink
+Prince
+Rihanna
+Robert Plant
+Sam Smith
+Shakira
+Stevie Wonder
+Taylor Swift
+The Weeknd
+Tina Turner
+Tom Jones
+Whitney Houston
+XXXTentacion
+Zayn Malik
+Barbra Streisand
+Celine Dion
+Cher
+David Gilmour
+Elvis Costello
+Frank Ocean
+George Michael
+Green Day
+John Mayer
+Kanye West
+Kendrick Lamar
+Lady Antebellum
+Madonna
+Michael Buble
+Miley Cyrus
+One Direction
+Ozzy Osbourne
+Pink Floyd
+Queen
+The Rolling Stones
+Pride and Prejudice by Jane Austen (1813)
+To Kill a Mockingbird by Harper Lee (1960)
+The Great Gatsby by F. Scott Fitzgerald (1925)
+One Hundred Years of Solitude by Gabriel García Márquez (1967)
+In Cold Blood by Truman Capote (1965)
+Wide Sargasso Sea by Jean Rhys (1966)
+The Catcher in the Rye by J. D. Salinger (1951)
+Lord of the Flies by William Golding (1954)
+1984 by George Orwell (1949)
+Animal Farm by George Orwell (1945)
+The Lord of the Rings by J. R. R. Tolkien (1954-1955)
+The Adventures of Huckleberry Finn by Mark Twain (1885)
+The Adventures of Tom Sawyer by Mark Twain (1876)
+Moby-Dick by Herman Melville (1851)
+Hamlet by William Shakespeare (1603)
+Oedipus Rex by Sophocles (429 BCE)
+The Odyssey by Homer (8th century BCE)
+The Iliad by Homer (8th century BCE)
+Crime and Punishment by Fyodor Dostoevsky (1866)
+The Brothers Karamazov by Fyodor Dostoevsky (1879-1880)
+The Metamorphosis by Franz Kafka (1915)
+Invisible Man by Ralph Ellison (1952)
+The Color Purple by Alice Walker (1982)
+Beloved by Toni Morrison (1987)
+The Book Thief by Markus Zusak (2005)
+The Kite Runner by Khaled Hosseini (2003)
+The Curious Incident of the Dog in the Night-Time by Mark Haddon (2003)
+The Help by Kathryn Stockett (2009)
+The Book of Negroes by Lawrence Hill (2007)
+Little Women by Louisa May Alcott (1868-1869)
+Anne of Green Gables by L. M. Montgomery (1908)
+To Kill a Mockingbird by Harper Lee (1960)
+The Chronicles of Narnia by C. S. Lewis (1950-1956)
+The Giver by Lois Lowry (1993)
+The Hunger Games by Suzanne Collins (2008)
+Divergent by Veronica Roth (2011)
+The Maze Runner by James Dashner (2012)
+The Fault in Our Stars by John Green (2012)
+Paper Towns by John Green (2015)
+Everything Everything by Nicola Yoon (2015)
+The Perks of Being a Wallflower by Stephen Chbosky (1999)
+The Lovely Bones by Alice Sebold (2002)
+Me Before You by Jojo Moyes (2012)
+The Girl on the Train by Paula Hawkins (2015)
+Gone Girl by Gillian Flynn (2012)
+The Woman in the Window by A. J. Finn (2018)
+The Martian by Andy Weir (2011)
+The Girl with the Dragon Tattoo by Stieg Larsson (2005)
+The Girl on the Train by Paula Hawkins (2015)
+Gone Girl by Gillian Flynn (2012)
+Dog
+Cat
+Cow
+Horse
+Pig
+Chicken
+Sheep
+Goat
+Donkey
+Rabbit
+Elephant
+Giraffe
+Zebra
+Lion
+Tiger
+Leopard
+Cheetah
+Bear
+Wolf
+Fox
+Raccoon
+Monkey
+Gorilla
+Chimpanzee
+Orangutan
+Snake
+Crocodile
+Alligator
+Turtle
+Tortoise
+Frog
+Toad
+Lizard
+Chameleon
+Salamander
+Sea turtle
+Dolphin
+Whale
+Shark
+Octopus
+Squid
+Crab
+Lobster
+Shrimp
+Fish
+Butterfly
+Moth
+Bee
+Ant
+Spider
+Scorpion
+Centipede
+Millipede
+Worm
+Snail
+Slug
+Bat
+Owl
+Eagle
+Hawk
+Parrot
+Macaw
+Toucan
+Flamingo
+Penguin
+Ostrich
+Rhea
+Emu
+Kangaroo
+Wallaby
+Koala
+Wombat
+Aardvark
+Pangolin
+Sloth
+Anteater
+Capybara
+Guinea pig
+Chinchilla
+Meerkat
+Lemur
+Monkey
+Gorilla
+Chimpanzee
+Orangutan
+Giraffe
+Zebra
+Lion
+Tiger
+Leopard
+Cheetah
+Bear
+Wolf
+Fox
+Raccoon
+Snake
+Crocodile
+Alligator
+Turtle
+Tortoise
+Citizen Kane (1941)
+Casablanca (1942)
+The Godfather (1972)
+Gone with the Wind (1939)
+Lawrence of Arabia (1962)
+The Wizard of Oz (1939)
+The Graduate (1967)
+On the Waterfront (1954)
+2001: A Space Odyssey (1968)
+The Shawshank Redemption (1994)
+Schindler's List (1993)
+The Godfather Part II (1974)
+Pulp Fiction (1994)
+The Lord of the Rings: The Return of the King (2003)
+12 Angry Men (1957)
+Vertigo (1958)
+The Silence of the Lambs (1991)
+The Dark Knight (2008)
+The Lord of the Rings: The Fellowship of the Ring (2001)
+Fight Club (1999)
+Forrest Gump (1994)
+The Good, the Bad and the Ugly (1966)
+The Lord of the Rings: The Two Towers (2002)
+Interstellar (2014)
+Goodfellas (1990)
+The Matrix (1999)
+One Flew Over the Cuckoo's Nest (1975)
+Psycho (1960)
+North by Northwest (1959)
+Singin' in the Rain (1952)
+The Bridge on the River Kwai (1957)
+Rear Window (1954)
+It's a Wonderful Life (1946)
+The Wizard of Oz (1939)
+The Philadelphia Story (1940)
+The Great Escape (1963)
+Some Like It Hot (1959)
+Sunset Boulevard (1950)
+The Apartment (1960)
+The African Queen (1951)
+The Treasure of the Sierra Madre (1948)
+The Seven Samurai (1954)
+Lawrence of Arabia (1962)
+8 1/2 (1963)
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)
+Butch Cassidy and the Sundance Kid (1969)
+The French Connection (1971)
+Taxi Driver (1976)
+Raging Bull (1980)
+Amadeus (1984)
+E.T. the Extra-Terrestrial (1982)
+Blade Runner (1982)
+Back to the Future (1985)
+Raiders of the Lost Ark (1981)
+The Terminator (1984)
+When Harry Met Sally (1989)
+The Color Purple (1985)
+Amadeus (1984)
+Rain Man (1988)
+Dead Poets Society (1989)
+Dances with Wolves (1990)
+The Silence of the Lambs (1991)
+Terminator 2: Judgment Day (1991)
+Unforgiven (1992)
+Schindler's List (1993)
+Forrest Gump (1994)
+Pulp Fiction (1994)
+The Shawshank Redemption (1994)
+Titanic (1997)
+Good Will Hunting (1997)
+The Matrix (1999)
+Fight Club (1999)
+ACAZ C.2
+Adamoli-Cattani fighter
+AD Scout
+AEG D.I, D.II & D.III
+AEG Dr.I
+Aerfer Ariete
+Aerfer Sagittario 2
+Aero Ae 02
+Aero Ae 04
+Aero A.18
+Aero A.19
+Aero A.20
+Aero A.102
+Aeromarine PG-1
+Hawker Siddeley Kestrel FGA.1
+Hawker Nimrod
+Hawker Osprey
+Hawker P.1081
+Hawker P.V.3
+Hawker Sea Fury
+Hawker Sea Hawk
+Hawker Tempest
+Hawker Tornado
+Hawker Typhoon
+Hawker Woodcock/Danecock/Dankok
+Heinkel HD 23
+Heinkel HD 37
+Heinkel HD 38
+Heinkel HD 43
+Heinkel He 49
+Heinkel He 51
+Heinkel He 74
+Heinkel He 100/He 113
+Heinkel He 111
+Heinkel He 177 Greif
+Heinkel He 219 Uhu
+Ilyushin Il-2
+Ilyushin Il-28
+Ilyushin Il-76
+Junkers Ju 87 Stuka
+Junkers Ju 88
+Junkers Ju 188
+Junkers Ju 352
+Lockheed F-104 Starfighter
+McDonnell Douglas F-15 Eagle
+McDonnell Douglas F-18 Hornet
+Mikoyan MiG-15
+Mikoyan MiG-21
+Mikoyan MiG-29
+North American F-86 Sabre
+North American F-100 Super Sabre
+North American F-111 Aardvark
+Panavia Tornado
+Saab 35 Draken
+Sukhoi Su-27 Flanker
+Sukhoi Su-30 Flanker
+Tupolev Tu-16
+Tupolev Tu-22
+Tupolev Tu-95 Bear
+Vickers Valiant
+Vought F-8 Crusader
+XB-70 Valkyrie

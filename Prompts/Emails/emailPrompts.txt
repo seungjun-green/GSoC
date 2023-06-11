@@ -1,0 +1,506 @@
+Write an email Software Developer sending to Customer.
+Write an email Customer sending to Software Developer.
+Write an email Nurse Practitioner sending to Patient.
+Write an email Patient sending to Nurse Practitioner.
+Write an email Medical and Health Services Manager sending to Patient.
+Write an email Patient sending to Medical and Health Services Manager.
+Write an email Physician Assistant sending to Patient.
+Write an email Patient sending to Physician Assistant.
+Write an email Information Security Analyst sending to CEO.
+Write an email CEO sending to Information Security Analyst.
+Write an email Physical Therapist sending to Patient.
+Write an email Patient sending to Physical Therapist.
+Write an email Financial Manager sending to Client.
+Write an email Client sending to Financial Manager.
+Write an email IT Manager sending to Software engineer.
+Write an email Software engineer sending to IT Manager.
+Write an email Web Developer sending to Boss.
+Write an email Boss sending to Web Developer.
+Write an email Dentist sending to Patient.
+Write an email Patient sending to Dentist.
+Write an email Architect sending to Client.
+Write an email Client sending to Architect.
+Write an email Civil Engineer sending to Contractor.
+Write an email Contractor sending to Civil Engineer.
+Write an email Electrical Engineer sending to Customer.
+Write an email Customer sending to Electrical Engineer.
+Write an email Mechanical Engineer sending to Client.
+Write an email Client sending to Mechanical Engineer.
+Write an email Software Engineer sending to Product Manager.
+Write an email Product Manager sending to Software Engineer.
+Write an email Data Scientist sending to Client.
+Write an email Client sending to Data Scientist.
+Write an email Business Analyst sending to CEO.
+Write an email CEO sending to Business Analyst.
+Write an email Project Manager sending to Supplier.
+Write an email Supplier sending to Project Manager.
+Write an email Marketing Manager sending to Customer.
+Write an email Customer sending to Marketing Manager.
+Write an email Human Resources Manager sending to Employee.
+Write an email Employee sending to Human Resources Manager.
+Write an email Accountant sending to Client.
+Write an email Client sending to Accountant.
+Write an email Financial Analyst sending to Client.
+Write an email Client sending to Financial Analyst.
+Write an email Lawyer sending to Client.
+Write an email Client sending to Lawyer.
+Write an email Doctor sending to Patient.
+Write an email Patient sending to Doctor.
+Write an email Nurse sending to Patient.
+Write an email Patient sending to Nurse.
+Write an email Teacher sending to Student.
+Write an email Student sending to Teacher.
+Write an email Police Officer sending to Citizen.
+Write an email Citizen sending to Police Officer.
+Write an email Firefighter sending to Police Officer.
+Write an email Police Officer sending to Firefighter.
+Write an email EMT sending to Patient.
+Write an email Patient sending to EMT.
+Write an email Social Worker sending to Client.
+Write an email Client sending to Social Worker.
+Write an email Counselor sending to Client.
+Write an email Client sending to Counselor.
+Write an email Psychologist sending to Patient.
+Write an email Patient sending to Psychologist.
+Write an email Nurse Midwife sending to Partner.
+Write an email Partner sending to Nurse Midwife.
+Write an email Pharmacist sending to Patient.
+Write an email Patient sending to Pharmacist.
+Write an email Veterinarian sending to Pet.
+Write an email Pet sending to Veterinarian.
+Write an email Chef sending to Customer.
+Write an email Customer sending to Chef.
+Write an email Hair Stylist sending to Client.
+Write an email Client sending to Hair Stylist.
+Write an email Nail Technician sending to Customer.
+Write an email Customer sending to Nail Technician.
+Write an email Massage Therapist sending to Patient.
+Write an email Patient sending to Massage Therapist.
+Write an email Personal Trainer sending to client.
+Write an email client sending to Personal Trainer.
+Write an email Real Estate Agent sending to Buyer.
+Write an email Buyer sending to Real Estate Agent.
+Write an email Insurance Agent sending to Client.
+Write an email Client sending to Insurance Agent.
+Write an email Financial Advisor sending to Client.
+Write an email Client sending to Financial Advisor.
+Write an email Travel Agent sending to Client.
+Write an email Client sending to Travel Agent.
+Write an email Customer Service Representative sending to Customer.
+Write an email Customer sending to Customer Service Representative.
+Write an email Sales Representative sending to customer.
+Write an email customer sending to Sales Representative.
+Write an email Retail Associate sending to Customer.
+Write an email Customer sending to Retail Associate.
+Write an email Food Service Worker sending to Customer.
+Write an email Customer sending to Food Service Worker.
+Write an email Construction Worker sending to Architect.
+Write an email Architect sending to Construction Worker.
+Write an email Truck Driver sending to Driver.
+Write an email Driver sending to Truck Driver.
+Write an email Delivery Driver sending to Customer.
+Write an email Customer sending to Delivery Driver.
+Write an email Groundskeeper sending to School.
+Write an email School sending to Groundskeeper.
+Write an email Janitor sending to Boss.
+Write an email Boss sending to Janitor.
+Write an email Security Guard sending to Visitor.
+Write an email Visitor sending to Security Guard.
+Write an email Caregiver sending to Patient.
+Write an email Patient sending to Caregiver.
+Write an email Nanny sending to Baby.
+Write an email Baby sending to Nanny.
+Write an email Housekeeper sending to Customer.
+Write an email Customer sending to Housekeeper.
+Write an email Personal Assistant sending to Client.
+Write an email Client sending to Personal Assistant.
+Write an email Dog Walker sending to Pet Owner.
+Write an email Pet Owner sending to Dog Walker.
+Write an email Cat Sitter sending to Cat.
+Write an email Cat sending to Cat Sitter.
+Write an email Chauffeur sending to Passenger.
+Write an email Passenger sending to Chauffeur.
+Write an email Flight Attendant sending to Passenger.
+Write an email Passenger sending to Flight Attendant.
+Write an email Cruise Ship Employee sending to Tourist.
+Write an email Tourist sending to Cruise Ship Employee.
+Write an email Hotel Clerk sending to Customer.
+Write an email Customer sending to Hotel Clerk.
+Write an email Tour Guide sending to Tourist.
+Write an email Tourist sending to Tour Guide.
+Write an email Travel Agent sending to Traveler.
+Write an email Traveler sending to Travel Agent.
+Write an email Event Planner sending to Client.
+Write an email Client sending to Event Planner.
+Write an email Wedding Planner sending to Bride.
+Write an email Bride sending to Wedding Planner.
+Write an email Party Planner sending to Guest.
+Write an email Guest sending to Party Planner.
+Write an email Florist sending to Customer.
+Write an email Customer sending to Florist.
+Write an email Photographer sending to Client.
+Write an email Client sending to Photographer.
+Write an email Graphic Designer sending to Client.
+Write an email Client sending to Graphic Designer.
+Write an email Web Designer sending to Client.
+Write an email Client sending to Web Designer.
+Write an email Video Editor sending to client.
+Write an email client sending to Video Editor.
+Write an email Audio Engineer sending to Client.
+Write an email Client sending to Audio Engineer.
+Write an email Musician sending to Fan.
+Write an email Fan sending to Musician.
+Write an email Actor sending to Director.
+Write an email Director sending to Actor.
+Write an email Dancer sending to Choreographer.
+Write an email Choreographer sending to Dancer.
+Write an email Writer sending to Editor.
+Write an email Editor sending to Writer.
+Write an email Editor sending to Author.
+Write an email Author sending to Editor.
+Write an email Journalist sending to Editor.
+Write an email Editor sending to Journalist.
+Write an email Teacher sending to Parent.
+Write an email Parent sending to Teacher.
+Write an email Professor sending to Student.
+Write an email Student sending to Professor.
+Write an email Researcher sending to Client.
+Write an email Client sending to Researcher.
+Write an email Scientist sending to Colleague.
+Write an email Colleague sending to Scientist.
+Write an email Engineer sending to Customer.
+Write an email Customer sending to Engineer.
+Write an email Architect sending to Customer.
+Write an email Customer sending to Architect.
+Write an email Designer sending to Customer.
+Write an email Customer sending to Designer.
+Write an email Manager sending to Client.
+Write an email Client sending to Manager.
+Write an email Executive sending to Administrative Assistant.
+Write an email Administrative Assistant sending to Executive.
+Write an email Entrepreneur sending to Investor.
+Write an email Investor sending to Entrepreneur.
+Write an email Investor sending to Colleague.
+Write an email Colleague sending to Investor.
+Write an email Consultant sending to Customer.
+Write an email Customer sending to Consultant.
+Write an email Therapist sending to Patient.
+Write an email Patient sending to Therapist.
+Write an email Coach sending to Player.
+Write an email Player sending to Coach.
+Write an email Mentor sending to Protege.
+Write an email Protege sending to Mentor.
+Write an email Volunteer sending to Community.
+Write an email Community sending to Volunteer.
+Write an email Activist sending to Lawmaker.
+Write an email Lawmaker sending to Activist.
+Write an email Humanitarian sending to Refugee.
+Write an email Refugee sending to Humanitarian.
+Write an email Philanthropist sending to Client.
+Write an email Client sending to Philanthropist.
+Write an email Accountant sending to Client.
+Write an email Client sending to Accountant.
+Write an email Actuary sending to Business owner.
+Write an email Business owner sending to Actuary.
+Write an email Advertising Account Executive sending to Potential client.
+Write an email Potential client sending to Advertising Account Executive.
+Write an email Aerospace Engineer sending to Project Manager.
+Write an email Project Manager sending to Aerospace Engineer.
+Write an email Air Traffic Controller sending to Pilot.
+Write an email Pilot sending to Air Traffic Controller.
+Write an email Architect sending to Owner.
+Write an email Owner sending to Architect.
+Write an email Attorney sending to Judge.
+Write an email Judge sending to Attorney.
+Write an email Audiologist sending to Patient.
+Write an email Patient sending to Audiologist.
+Write an email Bank Manager sending to Customer.
+Write an email Customer sending to Bank Manager.
+Write an email Biomedical Engineer sending to Patient.
+Write an email Patient sending to Biomedical Engineer.
+Write an email Business Analyst sending to Senior Leader.
+Write an email Senior Leader sending to Business Analyst.
+Write an email Business Development Manager sending to Client.
+Write an email Client sending to Business Development Manager.
+Write an email Chef sending to Diner.
+Write an email Diner sending to Chef.
+Write an email Civil Engineer sending to Building owner.
+Write an email Building owner sending to Civil Engineer.
+Write an email Clinical Psychologist sending to Patient.
+Write an email Patient sending to Clinical Psychologist.
+Write an email Computer Engineer sending to Sales person.
+Write an email Sales person sending to Computer Engineer.
+Write an email Computer Scientist sending to Programmer.
+Write an email Programmer sending to Computer Scientist.
+Write an email Counselor sending to Patient.
+Write an email Patient sending to Counselor.
+Write an email Dentist sending to Patient.
+Write an email Patient sending to Dentist.
+Write an email Dermatologist sending to Patient.
+Write an email Patient sending to Dermatologist.
+Write an email Dietician sending to Patient.
+Write an email Patient sending to Dietician.
+Write an email Electrical Engineer sending to Customer.
+Write an email Customer sending to Electrical Engineer.
+Write an email Emergency Medical Technician sending to Patient.
+Write an email Patient sending to Emergency Medical Technician.
+Write an email Financial Analyst sending to Investor.
+Write an email Investor sending to Financial Analyst.
+Write an email Financial Manager sending to Client.
+Write an email Client sending to Financial Manager.
+Write an email Flight Attendant sending to Passenger.
+Write an email Passenger sending to Flight Attendant.
+Write an email Forensic Scientist sending to Coroner.
+Write an email Coroner sending to Forensic Scientist.
+Write an email Geologist sending to Paleontologist.
+Write an email Paleontologist sending to Geologist.
+Write an email Graphic Designer sending to Client.
+Write an email Client sending to Graphic Designer.
+Write an email Health Educator sending to Patient.
+Write an email Patient sending to Health Educator.
+Write an email Human Resources Manager sending to Employee.
+Write an email Employee sending to Human Resources Manager.
+Write an email Industrial Engineer sending to Customer.
+Write an email Customer sending to Industrial Engineer.
+Write an email Information Security Analyst sending to User.
+Write an email User sending to Information Security Analyst.
+Write an email Insurance Agent sending to Client.
+Write an email Client sending to Insurance Agent.
+Write an email Lawyer sending to Client.
+Write an email Client sending to Lawyer.
+Write an email Librarian sending to Patron.
+Write an email Patron sending to Librarian.
+Write an email Market Research Analyst sending to Interviewer.
+Write an email Interviewer sending to Market Research Analyst.
+Write an email Marketing Manager sending to Customer.
+Write an email Customer sending to Marketing Manager.
+Write an email Mechanical Engineer sending to Customer.
+Write an email Customer sending to Mechanical Engineer.
+Write an email Medical Laboratory Scientist sending to Patient.
+Write an email Patient sending to Medical Laboratory Scientist.
+Write an email Medical Technologist sending to Patient.
+Write an email Patient sending to Medical Technologist.
+Write an email Meteorologist sending to Broadcast Meteorologist.
+Write an email Broadcast Meteorologist sending to Meteorologist.
+Write an email Nurse sending to Patient.
+Write an email Patient sending to Nurse.
+Write an email Occupational Therapist sending to Client.
+Write an email Client sending to Occupational Therapist.
+Write an email Optometrist sending to Patient.
+Write an email Patient sending to Optometrist.
+Write an email Pharmacist sending to Patient.
+Write an email Patient sending to Pharmacist.
+Write an email Physical Therapist sending to Patient.
+Write an email Patient sending to Physical Therapist.
+Write an email Physician sending to Patient.
+Write an email Patient sending to Physician.
+Write an email Pilot sending to Co-Pilot.
+Write an email Co-Pilot sending to Pilot.
+Write an email Police Officer sending to Suspect.
+Write an email Suspect sending to Police Officer.
+Write an email Product Manager sending to User.
+Write an email User sending to Product Manager.
+Write an email Psychologist sending to Patient.
+Write an email Patient sending to Psychologist.
+Write an email Public Relations Specialist sending to Client.
+Write an email Client sending to Public Relations Specialist.
+Write an email Quality Assurance Engineer sending to Developer.
+Write an email Developer sending to Quality Assurance Engineer.
+Write an email Real Estate Agent sending to Seller.
+Write an email Seller sending to Real Estate Agent.
+Write an email Registered Nurse sending to Patient.
+Write an email Patient sending to Registered Nurse.
+Write an email Respiratory Therapist sending to Patient.
+Write an email Patient sending to Respiratory Therapist.
+Write an email Software Engineer sending to User.
+Write an email User sending to Software Engineer.
+Write an email Social Worker sending to Client.
+Write an email Client sending to Social Worker.
+Write an email Speech Pathologist sending to Parent.
+Write an email Parent sending to Speech Pathologist.
+Write an email Surgeon sending to Patient.
+Write an email Patient sending to Surgeon.
+Write an email Teacher sending to Parent.
+Write an email Parent sending to Teacher.
+Write an email Technical Writer sending to Engineer.
+Write an email Engineer sending to Technical Writer.
+Write an email Telecommunications Engineer sending to Network Manager.
+Write an email Network Manager sending to Telecommunications Engineer.
+Write an email Veterinarian sending to Animal.
+Write an email Animal sending to Veterinarian.
+Write an email Web Developer sending to Client.
+Write an email Client sending to Web Developer.
+Write an email Writer sending to Editor.
+Write an email Editor sending to Writer.
+Write an email Zoologist sending to Scientist.
+Write an email Scientist sending to Zoologist.
+Write an email Advertising Sales Representative sending to Business Owner.
+Write an email Business Owner sending to Advertising Sales Representative.
+Write an email Air Force Officer sending to Air Force Trainee.
+Write an email Air Force Trainee sending to Air Force Officer.
+Write an email Architect Intern sending to Client.
+Write an email Client sending to Architect Intern.
+Write an email Art Director sending to Creative Director.
+Write an email Creative Director sending to Art Director.
+Write an email Associate Attorney sending to Partner.
+Write an email Partner sending to Associate Attorney.
+Write an email Athletic Trainer sending to Athlete.
+Write an email Athlete sending to Athletic Trainer.
+Write an email Banker sending to Customer.
+Write an email Customer sending to Banker.
+Write an email Biochemist sending to Lab Technician.
+Write an email Lab Technician sending to Biochemist.
+Write an email Biomedical Technician sending to Patient.
+Write an email Patient sending to Biomedical Technician.
+Write an email Bookkeeper sending to Customer.
+Write an email Customer sending to Bookkeeper.
+Write an email Business Intelligence Analyst sending to Client.
+Write an email Client sending to Business Intelligence Analyst.
+Write an email Buyer sending to Seller.
+Write an email Seller sending to Buyer.
+Write an email Carpenter sending to Customer.
+Write an email Customer sending to Carpenter.
+Write an email Chief Executive Officer (CEO) sending to Chief Operating Officer (COO).
+Write an email Chief Operating Officer (COO) sending to Chief Executive Officer (CEO).
+Write an email Clinical Research Associate sending to Investigator.
+Write an email Investigator sending to Clinical Research Associate.
+Write an email Commercial Pilot sending to Co-Pilot.
+Write an email Co-Pilot sending to Commercial Pilot.
+Write an email Computer Operator sending to Boss.
+Write an email Boss sending to Computer Operator.
+Write an email Computer Programmer sending to System Analyst.
+Write an email System Analyst sending to Computer Programmer.
+Write an email Construction Manager sending to Carpenter.
+Write an email Carpenter sending to Construction Manager.
+Write an email Cosmetologist sending to Customer.
+Write an email Customer sending to Cosmetologist.
+Write an email Customer Service Representative sending to Customer.
+Write an email Customer sending to Customer Service Representative.
+Write an email Database Administrator sending to Network Engineer.
+Write an email Network Engineer sending to Database Administrator.
+Write an email Dental Assistant sending to Dental Patient.
+Write an email Dental Patient sending to Dental Assistant.
+Write an email Dental Hygienist sending to Customer.
+Write an email Customer sending to Dental Hygienist.
+Write an email Diagnostic Medical Sonographer sending to Doctor.
+Write an email Doctor sending to Diagnostic Medical Sonographer.
+Write an email Diesel Mechanic sending to Customer.
+Write an email Customer sending to Diesel Mechanic.
+Write an email Director of Marketing sending to Business Partner.
+Write an email Business Partner sending to Director of Marketing.
+Write an email Electrical Technician sending to Customer.
+Write an email Customer sending to Electrical Technician.
+Write an email Emergency Medical Services (EMS) Technician sending to Paramedic.
+Write an email Paramedic sending to Emergency Medical Services (EMS) Technician.
+Write an email Engineer Intern sending to Mentor.
+Write an email Mentor sending to Engineer Intern.
+Write an email Environmental Scientist sending to Environmental Regulator.
+Write an email Environmental Regulator sending to Environmental Scientist.
+Write an email Fashion Designer sending to Customer.
+Write an email Customer sending to Fashion Designer.
+Write an email Financial Analyst Intern sending to Analyst.
+Write an email Analyst sending to Financial Analyst Intern.
+Write an email Flight Instructor sending to Student.
+Write an email Student sending to Flight Instructor.
+Write an email Florist sending to Customer.
+Write an email Customer sending to Florist.
+Write an email Food Scientist sending to Farmer.
+Write an email Farmer sending to Food Scientist.
+Write an email Funeral Director sending to Grieving family.
+Write an email Grieving family sending to Funeral Director.
+Write an email Geographer sending to Explorer.
+Write an email Explorer sending to Geographer.
+Write an email Graphic Artist sending to CEO.
+Write an email CEO sending to Graphic Artist.
+Write an email Hair Stylist sending to Client.
+Write an email Client sending to Hair Stylist.
+Write an email Human Resources Assistant sending to Employee.
+Write an email Employee sending to Human Resources Assistant.
+Write an email Industrial Designer sending to Collaborator.
+Write an email Collaborator sending to Industrial Designer.
+Write an email Insurance Claims Adjuster sending to Insured.
+Write an email Insured sending to Insurance Claims Adjuster.
+Write an email IT Consultant sending to Client.
+Write an email Client sending to IT Consultant.
+Write an email Journalist sending to Source.
+Write an email Source sending to Journalist.
+Write an email Landscape Architect sending to Client.
+Write an email Client sending to Landscape Architect.
+Write an email Legal Secretary sending to Attorney.
+Write an email Attorney sending to Legal Secretary.
+Write an email Librarian Assistant sending to Librarian.
+Write an email Librarian sending to Librarian Assistant.
+Write an email Licensed Practical Nurse (LPN) sending to Patient.
+Write an email Patient sending to Licensed Practical Nurse (LPN).
+Write an email Marketing Intern sending to Manager.
+Write an email Manager sending to Marketing Intern.
+Write an email Mechanical Design Engineer sending to Project Manager.
+Write an email Project Manager sending to Mechanical Design Engineer.
+Write an email Medical Assistant sending to Patient.
+Write an email Patient sending to Medical Assistant.
+Write an email Medical Illustrator sending to Doctor.
+Write an email Doctor sending to Medical Illustrator.
+Write an email Medical Transcriptionist sending to Doctor.
+Write an email Doctor sending to Medical Transcriptionist.
+Write an email Meteorologist Intern sending to Supervisor.
+Write an email Supervisor sending to Meteorologist Intern.
+Write an email Military Officer sending to Subordinate.
+Write an email Subordinate sending to Military Officer.
+Write an email Music Teacher sending to Student.
+Write an email Student sending to Music Teacher.
+Write an email Network Engineer sending to Server.
+Write an email Server sending to Network Engineer.
+Write an email Occupational Health and Safety Specialist sending to Supervisor.
+Write an email Supervisor sending to Occupational Health and Safety Specialist.
+Write an email Optician sending to Customer.
+Write an email Customer sending to Optician.
+Write an email Paralegal sending to Attorney.
+Write an email Attorney sending to Paralegal.
+Write an email Pharmacist Intern sending to Patient.
+Write an email Patient sending to Pharmacist Intern.
+Write an email Photographer sending to Subject.
+Write an email Subject sending to Photographer.
+Write an email Physical Therapist Assistant sending to Patient.
+Write an email Patient sending to Physical Therapist Assistant.
+Write an email Police Officer Intern sending to Supervisor.
+Write an email Supervisor sending to Police Officer Intern.
+Write an email Preschool Teacher sending to Children.
+Write an email Children sending to Preschool Teacher.
+Write an email Procurement Specialist sending to Supplier.
+Write an email Supplier sending to Procurement Specialist.
+Write an email Quality Control Specialist sending to Supplier.
+Write an email Supplier sending to Quality Control Specialist.
+Write an email Real Estate Broker sending to Buyer.
+Write an email Buyer sending to Real Estate Broker.
+Write an email Registered Dietitian Intern sending to Supervisor.
+Write an email Supervisor sending to Registered Dietitian Intern.
+Write an email Registered Nurse Intern sending to Patient.
+Write an email Patient sending to Registered Nurse Intern.
+Write an email Research Assistant sending to Professor.
+Write an email Professor sending to Research Assistant.
+Write an email Retail Sales Associate sending to customer.
+Write an email customer sending to Retail Sales Associate.
+Write an email Sales Engineer sending to Customer.
+Write an email Customer sending to Sales Engineer.
+Write an email Sales Representative sending to Customer.
+Write an email Customer sending to Sales Representative.
+Write an email School Psychologist sending to Students and parents.
+Write an email Students and parents sending to School Psychologist.
+Write an email Security Guard sending to Suspect.
+Write an email Suspect sending to Security Guard.
+Write an email Social Media Manager sending to Client.
+Write an email Client sending to Social Media Manager.
+Write an email Software Developer Intern sending to Software Development Manager.
+Write an email Software Development Manager sending to Software Developer Intern.
+Write an email Speech Language Pathologist Intern sending to Patient.
+Write an email Patient sending to Speech Language Pathologist Intern.
+Write an email Surgical Technologist sending to Patient.
+Write an email Patient sending to Surgical Technologist.
+Write an email Teacher Assistant sending to Teacher.
+Write an email Teacher sending to Teacher Assistant.
+Write an email Technical Support Specialist sending to Customer.
+Write an email Customer sending to Technical Support Specialist.
+Write an email Telecommunications Technician sending to Business customer.
+Write an email Business customer sending to Telecommunications Technician.
+Write an email Travel Agent sending to Customer.
+Write an email Customer sending to Travel Agent.

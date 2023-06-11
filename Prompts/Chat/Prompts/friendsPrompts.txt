@@ -1,0 +1,1016 @@
+Write a conversation history between two friends talking on Our favorite places to go for fun
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Abortion
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our favorite people and why we love them.
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Your favorite books, movies, and TV shows
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our Biggest Dreams
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Your favorite way to make a difference in the world.
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our Least Favorite Movies
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our dream vacations
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our hopes and dreams for the future.
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The best way to spend a summer vacation
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our Favorite Jokes to Tell Each Other
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Celebrating retirement!
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on What would be the implications of contact with aliens?
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The latest movies we've seen
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Your values and beliefs
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Where are aliens from?
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Your biggest fear.
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Your favorite way to say "I love you."
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Volunteering
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Your favorite memories
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our Least Favorite Foods
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on What is the most famous UFO sighting?
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Future Plans for Life
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our favorite ways to spend time alone
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our favorite places to travel.
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Are we alone in the universe?
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The songs that have gotten us through tough times.
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Your thoughts on the meaning of life
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The most interesting books we've read recently
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Dealing with loneliness and isolation
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our fears and insecurities
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our favorite ways to relax
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Your favorite way to travel.
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our regrets for the world
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The challenges we've faced and how we overcame them
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Your thoughts on spirituality, religion, and faith
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Your thoughts on politics, social justice, and the world
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Your favorite thing to do in your free time.
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The most challenging experiences we've faced
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our Least Favorite Sports Teams
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Your favorite video game.
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The best way to make a grilled cheese sandwich.
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The craziest things that have ever happened to us
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Your hopes and fears for the future
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on What is the most credible UFO sighting?
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Have aliens ever visited Earth?
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The best places to travel on a budget
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our favorite foods and restaurants
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The things we want to do before we die.
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Your favorite way to spend a day off.
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Retirement planning
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Your thoughts on love, relationships, and marriage
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our Favorite Books to Read Aloud to Each Other
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Your favorite way to show someone you care.
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The most important things we've learned in life and how we're applying them to our own lives.
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The upcoming midterm elections
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Managing finances
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our favorite books, music, and movies and why they're so special to us.
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The most important things in our lives
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The things we're most proud of
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our favorite movies and why we love them.
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The things that make us feel hopeful
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our favorite jokes
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Staying active
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Gun control
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Future plans for life
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our favorite proverbs
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our favorite foods and why we love them.
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Your favorite quote.
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The Supreme Court
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Long-term care
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The things we'd like to change about ourselves
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our dreams for the future
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on What evidence is there for aliens?
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The movies that have made us laugh the hardest.
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our Support for Each Other
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Are UFOs a threat to humanity?
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our Least Favorite Music
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The state of the economy
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Your favorite TV show.
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our favorite ways to spend time with family
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our goals for the future
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The most interesting places we've traveled to and what we learned from them.
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our favorite ways to spend time with friends
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The future of the Democratic and Republican parties
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Hobbies
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our Advice for Each Other
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our Most Triumphant Moments
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Your favorite way to make someone laugh.
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The best way to make a difference in the world.
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Climate change
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on What are the different types of UFOs?
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Your thoughts on death, dying, and the afterlife
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Your favorite hobbies and activities
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on How would humans react to contact with aliens?
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our plans for the future
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The books that have changed our lives.
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The January 6th attack on the Capitol
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Medicare
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The decline of trust in government
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Your favorite song.
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our favorite movies
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our favorite things to do in our free time
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our Least Favorite Things to Talk About
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The most memorable day of our lives.
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The things that make us feel inspired
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Social Security benefits
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Your favorite way to learn something new.
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The most interesting places we've ever traveled.
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Socializing
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Your favorite sport.
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The worst thing that happened to you this week.
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Immigration
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our favorite things to do
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Sharing Old Memories When We Were Kids
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Favorite animes
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on What is the meaning of life?
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The things we'd like to see happen in the world
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our favorite music and bands
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our biggest fears and how we're working to overcome them.
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our favorite TV shows and why we love them.
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our Favorite Movies
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our favorite books and why we love them
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Favorite Animes
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our Favorite Foods
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Travel
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Your thoughts on family, friends, and community
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Staying mentally sharp
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our Least Favorite TV Shows
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on What is the most likely explanation for UFOs?
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Estate planning
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Transportation
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Healthcare
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Your favorite way to give back to your community.
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The most important people in our lives and what they mean to us.
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our Favorite Video Games
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The best thing that happened to you this week.
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our favorite movies and TV shows
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our dreams for the world
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The things we're most afraid of
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Your favorite people to spend time with
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Finding new purpose
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Adjusting to retirement
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Your favorite way to relax.
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Your favorite color.
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our Favorite Things to Do Together
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our Least Favorite Video Games
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our lessons for the world
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our hopes and dreams for the future
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our Least Favorite Things to Do Together
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Your favorite way to be loved.
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our Favorite Sports Teams
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our Biggest Fears
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Sharing each others current jobs
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our favorite movies of all time and why.
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The things we're most passionate about
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The things that make us feel alive
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The things we're most worried about
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our hopes and dreams
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our hopes for the world
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The best way to spend a summer vacation.
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Your favorite movie.
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Why are aliens here?
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The most challenging experiences we've ever had.
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Your biggest regrets
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Staying connected with friends and family
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The most memorable day of our lives
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Housing
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The rise of authoritarianism
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Your favorite place in the world.
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The things we'd like to change about our lives
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The role of social media in politics
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The places we'd most like to travel to
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our Favorite Music
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our favorite songs and why we love them.
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The most embarrassing thing that has ever happened to us.
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our favorite TV shows
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our hopes and dreams for the future and what we're doing to make them happen.
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our favorite quotes
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The things we are most grateful for.
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Sharing Each Other's Current Jobs
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The COVID-19 pandemic
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Your favorite book.
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The things that make us laugh
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Education
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The influence of money in politics
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Your thoughts on work, career, and money
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our favorite places to go and why we love them.
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The things we're most excited about
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our favorite movies of all time
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Taxes
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Your proudest accomplishments
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The most memorable moments of our lives
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our lessons from the past
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our favorite recipes
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our fears for the world
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our Dreams for the Future
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The need for political reform
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on What do aliens look like?
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Health insurance
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The things that make us angry
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Your favorite places to travel
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Are aliens real?
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our fears for the future
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The best thing about being a parent.
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The things that make us cry
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our favorite music and why we love it.
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our favorite foods
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The ongoing war in Ukraine
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The people we admire most
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Your thoughts on health, wellness, and fitness
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on What is the government hiding about aliens?
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Your favorite music and artists
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our Favorite Ways to Spend Time Together
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The things we're most excited about and what we're looking forward to in the future.
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on What would happen if aliens made contact with Earth?
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our Favorite Books and Why We Love Them
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our Favorite Things to Talk About
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our Most Embarrassing Moments
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our Least Favorite Places to Visit
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The most interesting people we've ever met
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The impact of gerrymandering
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Your goals and dreams
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The things that make us feel loved
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our Love for Each Other
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Your biggest dream.
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The people who have influenced us the most.
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on What do aliens want?
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our favorite music
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on What are UFOs?
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our biggest fears
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The biggest mistakes we've made
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The most interesting people we've met
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our regrets from the past
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Your favorite food.
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The things we're most grateful for and how we're showing gratitude in our lives.
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our favorite books and why we love them.
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The latest movies we've seen and what we thought of them
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Sharing old memories when we were kids
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our favorite places to go
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The best places to travel
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our favorite sayings
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our Favorite Places to Visit
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our Secrets
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The things we're most grateful for
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The worst thing about being a parent.
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on What would the future hold if humans and aliens made contact?
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our Favorite Ways to Relax
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our Biggest Pet Peeves
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Your favorite animal.
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our favorite TV shows and why we love them
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Our Favorite TV Shows
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on The things that make us feel grateful
+Example Output:
+Friend1: String1
+Friend2: String2
+Write a conversation history between two friends talking on Your biggest challenges
+Example Output:
+Friend1: String1
+Friend2: String2

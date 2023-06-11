@@ -1,0 +1,279 @@
+Write an operative note for a young adult patient who had a Appendectomy.
+Write an operative note for a middle-aged adult patient who had a Appendectomy.
+Write an operative note for a senior patient who had a Appendectomy.
+Write an operative note for a young adult patient who had a Penectomy.
+Write an operative note for a middle-aged adult patient who had a Penectomy.
+Write an operative note for a senior patient who had a Penectomy.
+Write an operative note for a young adult patient who had a Neurosurgery.
+Write an operative note for a middle-aged adult patient who had a Neurosurgery.
+Write an operative note for a senior patient who had a Neurosurgery.
+Write an operative note for a young adult patient who had a Urology surgery.
+Write an operative note for a middle-aged adult patient who had a Urology surgery.
+Write an operative note for a senior patient who had a Urology surgery.
+Write an operative note for a young adult patient who had a Prostatectomy.
+Write an operative note for a middle-aged adult patient who had a Prostatectomy.
+Write an operative note for a senior patient who had a Prostatectomy.
+Write an operative note for a young adult patient who had a Patella replacement.
+Write an operative note for a middle-aged adult patient who had a Patella replacement.
+Write an operative note for a senior patient who had a Patella replacement.
+Write an operative note for a young adult patient who had a Lobectomy.
+Write an operative note for a middle-aged adult patient who had a Lobectomy.
+Write an operative note for a senior patient who had a Lobectomy.
+Write an operative note for a young adult patient who had a Abdominal aortic aneurysm repair (AAA).
+Write an operative note for a middle-aged adult patient who had a Abdominal aortic aneurysm repair (AAA).
+Write an operative note for a senior patient who had a Abdominal aortic aneurysm repair (AAA).
+Write an operative note for a young adult patient who had a Tumor removal.
+Write an operative note for a middle-aged adult patient who had a Tumor removal.
+Write an operative note for a senior patient who had a Tumor removal.
+Write an operative note for a young adult patient who had a Cystectomy.
+Write an operative note for a middle-aged adult patient who had a Cystectomy.
+Write an operative note for a senior patient who had a Cystectomy.
+Write an operative note for a young adult patient who had a Maternity surgery.
+Write an operative note for a middle-aged adult patient who had a Maternity surgery.
+Write an operative note for a senior patient who had a Maternity surgery.
+Write an operative note for a young adult patient who had a Debridement.
+Write an operative note for a middle-aged adult patient who had a Debridement.
+Write an operative note for a senior patient who had a Debridement.
+Write an operative note for a young adult patient who had a Rhinoplasty.
+Write an operative note for a middle-aged adult patient who had a Rhinoplasty.
+Write an operative note for a senior patient who had a Rhinoplasty.
+Write an operative note for a young adult patient who had a Vascular surgery.
+Write an operative note for a middle-aged adult patient who had a Vascular surgery.
+Write an operative note for a senior patient who had a Vascular surgery.
+Write an operative note for a young adult patient who had a Achilles tendon repair.
+Write an operative note for a middle-aged adult patient who had a Achilles tendon repair.
+Write an operative note for a senior patient who had a Achilles tendon repair.
+Write an operative note for a young adult patient who had a Cleft lip repair.
+Write an operative note for a middle-aged adult patient who had a Cleft lip repair.
+Write an operative note for a senior patient who had a Cleft lip repair.
+Write an operative note for a young adult patient who had a Bariatric surgery.
+Write an operative note for a middle-aged adult patient who had a Bariatric surgery.
+Write an operative note for a senior patient who had a Bariatric surgery.
+Write an operative note for a young adult patient who had a Vasectomy.
+Write an operative note for a middle-aged adult patient who had a Vasectomy.
+Write an operative note for a senior patient who had a Vasectomy.
+Write an operative note for a young adult patient who had a Cricothyroidotomy.
+Write an operative note for a middle-aged adult patient who had a Cricothyroidotomy.
+Write an operative note for a senior patient who had a Cricothyroidotomy.
+Write an operative note for a young adult patient who had a Adenoidectomy.
+Write an operative note for a middle-aged adult patient who had a Adenoidectomy.
+Write an operative note for a senior patient who had a Adenoidectomy.
+Write an operative note for a young adult patient who had a Coronary artery bypass grafting (CABG).
+Write an operative note for a middle-aged adult patient who had a Coronary artery bypass grafting (CABG).
+Write an operative note for a senior patient who had a Coronary artery bypass grafting (CABG).
+Write an operative note for a young adult patient who had a Carotid endarterectomy.
+Write an operative note for a middle-aged adult patient who had a Carotid endarterectomy.
+Write an operative note for a senior patient who had a Carotid endarterectomy.
+Write an operative note for a young adult patient who had a Coronary artery bypass graft (CABG).
+Write an operative note for a middle-aged adult patient who had a Coronary artery bypass graft (CABG).
+Write an operative note for a senior patient who had a Coronary artery bypass graft (CABG).
+Write an operative note for a young adult patient who had a Pyeloplasty.
+Write an operative note for a middle-aged adult patient who had a Pyeloplasty.
+Write an operative note for a senior patient who had a Pyeloplasty.
+Write an operative note for a young adult patient who had a Tonsillectomy.
+Write an operative note for a middle-aged adult patient who had a Tonsillectomy.
+Write an operative note for a senior patient who had a Tonsillectomy.
+Write an operative note for a young adult patient who had a Cesarean section.
+Write an operative note for a middle-aged adult patient who had a Cesarean section.
+Write an operative note for a senior patient who had a Cesarean section.
+Write an operative note for a young adult patient who had a Laparoscopic surgery.
+Write an operative note for a middle-aged adult patient who had a Laparoscopic surgery.
+Write an operative note for a senior patient who had a Laparoscopic surgery.
+Write an operative note for a young adult patient who had a Cleft lip and palate repair.
+Write an operative note for a middle-aged adult patient who had a Cleft lip and palate repair.
+Write an operative note for a senior patient who had a Cleft lip and palate repair.
+Write an operative note for a young adult patient who had a Colectomy.
+Write an operative note for a middle-aged adult patient who had a Colectomy.
+Write an operative note for a senior patient who had a Colectomy.
+Write an operative note for a young adult patient who had a Breast reconstruction after mastectomy.
+Write an operative note for a middle-aged adult patient who had a Breast reconstruction after mastectomy.
+Write an operative note for a senior patient who had a Breast reconstruction after mastectomy.
+Write an operative note for a young adult patient who had a Paediatric surgery.
+Write an operative note for a middle-aged adult patient who had a Paediatric surgery.
+Write an operative note for a senior patient who had a Paediatric surgery.
+Write an operative note for a young adult patient who had a Otolaryngology (ENT) surgery.
+Write an operative note for a middle-aged adult patient who had a Otolaryngology (ENT) surgery.
+Write an operative note for a senior patient who had a Otolaryngology (ENT) surgery.
+Write an operative note for a young adult patient who had a Colonoscopy.
+Write an operative note for a middle-aged adult patient who had a Colonoscopy.
+Write an operative note for a senior patient who had a Colonoscopy.
+Write an operative note for a young adult patient who had a Prostate surgery.
+Write an operative note for a middle-aged adult patient who had a Prostate surgery.
+Write an operative note for a senior patient who had a Prostate surgery.
+Write an operative note for a young adult patient who had a Circumcision.
+Write an operative note for a middle-aged adult patient who had a Circumcision.
+Write an operative note for a senior patient who had a Circumcision.
+Write an operative note for a young adult patient who had a Partial nephrectomy.
+Write an operative note for a middle-aged adult patient who had a Partial nephrectomy.
+Write an operative note for a senior patient who had a Partial nephrectomy.
+Write an operative note for a young adult patient who had a Cranioplasty.
+Write an operative note for a middle-aged adult patient who had a Cranioplasty.
+Write an operative note for a senior patient who had a Cranioplasty.
+Write an operative note for a young adult patient who had a Abdominal aortic aneurysm repair.
+Write an operative note for a middle-aged adult patient who had a Abdominal aortic aneurysm repair.
+Write an operative note for a senior patient who had a Abdominal aortic aneurysm repair.
+Write an operative note for a young adult patient who had a C-section.
+Write an operative note for a middle-aged adult patient who had a C-section.
+Write an operative note for a senior patient who had a C-section.
+Write an operative note for a young adult patient who had a Gastrectomy.
+Write an operative note for a middle-aged adult patient who had a Gastrectomy.
+Write an operative note for a senior patient who had a Gastrectomy.
+Write an operative note for a young adult patient who had a Knee replacement.
+Write an operative note for a middle-aged adult patient who had a Knee replacement.
+Write an operative note for a senior patient who had a Knee replacement.
+Write an operative note for a young adult patient who had a Tracheostomy.
+Write an operative note for a middle-aged adult patient who had a Tracheostomy.
+Write an operative note for a senior patient who had a Tracheostomy.
+Write an operative note for a young adult patient who had a Oophorectomy.
+Write an operative note for a middle-aged adult patient who had a Oophorectomy.
+Write an operative note for a senior patient who had a Oophorectomy.
+Write an operative note for a young adult patient who had a Cholecystectomy.
+Write an operative note for a middle-aged adult patient who had a Cholecystectomy.
+Write an operative note for a senior patient who had a Cholecystectomy.
+Write an operative note for a young adult patient who had a Maxillary sinusotomy.
+Write an operative note for a middle-aged adult patient who had a Maxillary sinusotomy.
+Write an operative note for a senior patient who had a Maxillary sinusotomy.
+Write an operative note for a young adult patient who had a Heart valve replacement.
+Write an operative note for a middle-aged adult patient who had a Heart valve replacement.
+Write an operative note for a senior patient who had a Heart valve replacement.
+Write an operative note for a young adult patient who had a Craniotomy.
+Write an operative note for a middle-aged adult patient who had a Craniotomy.
+Write an operative note for a senior patient who had a Craniotomy.
+Write an operative note for a young adult patient who had a Craniofacial surgery.
+Write an operative note for a middle-aged adult patient who had a Craniofacial surgery.
+Write an operative note for a senior patient who had a Craniofacial surgery.
+Write an operative note for a young adult patient who had a Endoscopy.
+Write an operative note for a middle-aged adult patient who had a Endoscopy.
+Write an operative note for a senior patient who had a Endoscopy.
+Write an operative note for a young adult patient who had a Gastric bypass surgery.
+Write an operative note for a middle-aged adult patient who had a Gastric bypass surgery.
+Write an operative note for a senior patient who had a Gastric bypass surgery.
+Write an operative note for a young adult patient who had a Pancreaticoduodenectomy.
+Write an operative note for a middle-aged adult patient who had a Pancreaticoduodenectomy.
+Write an operative note for a senior patient who had a Pancreaticoduodenectomy.
+Write an operative note for a young adult patient who had a Carpal tunnel release.
+Write an operative note for a middle-aged adult patient who had a Carpal tunnel release.
+Write an operative note for a senior patient who had a Carpal tunnel release.
+Write an operative note for a young adult patient who had a Septoplasty.
+Write an operative note for a middle-aged adult patient who had a Septoplasty.
+Write an operative note for a senior patient who had a Septoplasty.
+Write an operative note for a young adult patient who had a Hysterectomy.
+Write an operative note for a middle-aged adult patient who had a Hysterectomy.
+Write an operative note for a senior patient who had a Hysterectomy.
+Write an operative note for a young adult patient who had a Otolaryngology.
+Write an operative note for a middle-aged adult patient who had a Otolaryngology.
+Write an operative note for a senior patient who had a Otolaryngology.
+Write an operative note for a young adult patient who had a Mastectomy.
+Write an operative note for a middle-aged adult patient who had a Mastectomy.
+Write an operative note for a senior patient who had a Mastectomy.
+Write an operative note for a young adult patient who had a Orchidectomy.
+Write an operative note for a middle-aged adult patient who had a Orchidectomy.
+Write an operative note for a senior patient who had a Orchidectomy.
+Write an operative note for a young adult patient who had a Gastric sleeve surgery.
+Write an operative note for a middle-aged adult patient who had a Gastric sleeve surgery.
+Write an operative note for a senior patient who had a Gastric sleeve surgery.
+Write an operative note for a young adult patient who had a Otoplasty.
+Write an operative note for a middle-aged adult patient who had a Otoplasty.
+Write an operative note for a senior patient who had a Otoplasty.
+Write an operative note for a young adult patient who had a Open heart surgery.
+Write an operative note for a middle-aged adult patient who had a Open heart surgery.
+Write an operative note for a senior patient who had a Open heart surgery.
+Write an operative note for a young adult patient who had a Discectomy.
+Write an operative note for a middle-aged adult patient who had a Discectomy.
+Write an operative note for a senior patient who had a Discectomy.
+Write an operative note for a young adult patient who had a Burn reconstruction.
+Write an operative note for a middle-aged adult patient who had a Burn reconstruction.
+Write an operative note for a senior patient who had a Burn reconstruction.
+Write an operative note for a young adult patient who had a Cleft palate repair.
+Write an operative note for a middle-aged adult patient who had a Cleft palate repair.
+Write an operative note for a senior patient who had a Cleft palate repair.
+Write an operative note for a young adult patient who had a Pacemaker implantation.
+Write an operative note for a middle-aged adult patient who had a Pacemaker implantation.
+Write an operative note for a senior patient who had a Pacemaker implantation.
+Write an operative note for a young adult patient who had a Orthopedic surgery.
+Write an operative note for a middle-aged adult patient who had a Orthopedic surgery.
+Write an operative note for a senior patient who had a Orthopedic surgery.
+Write an operative note for a young adult patient who had a Meniscus repair.
+Write an operative note for a middle-aged adult patient who had a Meniscus repair.
+Write an operative note for a senior patient who had a Meniscus repair.
+Write an operative note for a young adult patient who had a Myectomy.
+Write an operative note for a middle-aged adult patient who had a Myectomy.
+Write an operative note for a senior patient who had a Myectomy.
+Write an operative note for a young adult patient who had a Vertebroplasty.
+Write an operative note for a middle-aged adult patient who had a Vertebroplasty.
+Write an operative note for a senior patient who had a Vertebroplasty.
+Write an operative note for a young adult patient who had a Laminectomy.
+Write an operative note for a middle-aged adult patient who had a Laminectomy.
+Write an operative note for a senior patient who had a Laminectomy.
+Write an operative note for a young adult patient who had a Wrist arthroscopy.
+Write an operative note for a middle-aged adult patient who had a Wrist arthroscopy.
+Write an operative note for a senior patient who had a Wrist arthroscopy.
+Write an operative note for a young adult patient who had a Liver transplant.
+Write an operative note for a middle-aged adult patient who had a Liver transplant.
+Write an operative note for a senior patient who had a Liver transplant.
+Write an operative note for a young adult patient who had a Proctology (colon and rectal) surgery.
+Write an operative note for a middle-aged adult patient who had a Proctology (colon and rectal) surgery.
+Write an operative note for a senior patient who had a Proctology (colon and rectal) surgery.
+Write an operative note for a young adult patient who had a Cervical discectomy.
+Write an operative note for a middle-aged adult patient who had a Cervical discectomy.
+Write an operative note for a senior patient who had a Cervical discectomy.
+Write an operative note for a young adult patient who had a Heart valve surgery.
+Write an operative note for a middle-aged adult patient who had a Heart valve surgery.
+Write an operative note for a senior patient who had a Heart valve surgery.
+Write an operative note for a young adult patient who had a Nephrectomy.
+Write an operative note for a middle-aged adult patient who had a Nephrectomy.
+Write an operative note for a senior patient who had a Nephrectomy.
+Write an operative note for a young adult patient who had a Hip replacement.
+Write an operative note for a middle-aged adult patient who had a Hip replacement.
+Write an operative note for a senior patient who had a Hip replacement.
+Write an operative note for a young adult patient who had a Breast biopsy.
+Write an operative note for a middle-aged adult patient who had a Breast biopsy.
+Write an operative note for a senior patient who had a Breast biopsy.
+Write an operative note for a young adult patient who had a Laparoscopy.
+Write an operative note for a middle-aged adult patient who had a Laparoscopy.
+Write an operative note for a senior patient who had a Laparoscopy.
+Write an operative note for a young adult patient who had a Colostomy.
+Write an operative note for a middle-aged adult patient who had a Colostomy.
+Write an operative note for a senior patient who had a Colostomy.
+Write an operative note for a young adult patient who had a Open-heart surgery.
+Write an operative note for a middle-aged adult patient who had a Open-heart surgery.
+Write an operative note for a senior patient who had a Open-heart surgery.
+Write an operative note for a young adult patient who had a Tympanoplasty.
+Write an operative note for a middle-aged adult patient who had a Tympanoplasty.
+Write an operative note for a senior patient who had a Tympanoplasty.
+Write an operative note for a young adult patient who had a Whipple procedure.
+Write an operative note for a middle-aged adult patient who had a Whipple procedure.
+Write an operative note for a senior patient who had a Whipple procedure.
+Write an operative note for a young adult patient who had a Spinal fusion.
+Write an operative note for a middle-aged adult patient who had a Spinal fusion.
+Write an operative note for a senior patient who had a Spinal fusion.
+Write an operative note for a young adult patient who had a Kidney transplant.
+Write an operative note for a middle-aged adult patient who had a Kidney transplant.
+Write an operative note for a senior patient who had a Kidney transplant.
+Write an operative note for a young adult patient who had a Hip fracture repair.
+Write an operative note for a middle-aged adult patient who had a Hip fracture repair.
+Write an operative note for a senior patient who had a Hip fracture repair.
+Write an operative note for a young adult patient who had a Hand surgery.
+Write an operative note for a middle-aged adult patient who had a Hand surgery.
+Write an operative note for a senior patient who had a Hand surgery.
+Write an operative note for a young adult patient who had a Cataract surgery.
+Write an operative note for a middle-aged adult patient who had a Cataract surgery.
+Write an operative note for a senior patient who had a Cataract surgery.
+Write an operative note for a young adult patient who had a Plastic surgery.
+Write an operative note for a middle-aged adult patient who had a Plastic surgery.
+Write an operative note for a senior patient who had a Plastic surgery.
+Write an operative note for a young adult patient who had a Nissen fundoplication.
+Write an operative note for a middle-aged adult patient who had a Nissen fundoplication.
+Write an operative note for a senior patient who had a Nissen fundoplication.
+Write an operative note for a young adult patient who had a Coronary artery bypass grafting.
+Write an operative note for a middle-aged adult patient who had a Coronary artery bypass grafting.
+Write an operative note for a senior patient who had a Coronary artery bypass grafting.
+Write an operative note for a young adult patient who had a Orbitotomy.
+Write an operative note for a middle-aged adult patient who had a Orbitotomy.
+Write an operative note for a senior patient who had a Orbitotomy.
+Write an operative note for a young adult patient who had a Arthroscopy.
+Write an operative note for a middle-aged adult patient who had a Arthroscopy.
+Write an operative note for a senior patient who had a Arthroscopy.
+Write an operative note for a young adult patient who had a Inguinal hernia repair.
+Write an operative note for a middle-aged adult patient who had a Inguinal hernia repair.
+Write an operative note for a senior patient who had a Inguinal hernia repair.
