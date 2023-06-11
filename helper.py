@@ -45,3 +45,21 @@ def combine_text_files(input_files, output_file):
             outfile.write('\n')
 
 
+from google.cloud import storage
+
+# def list_blobs(bucket_name):
+#     """Lists all the blobs in the bucket."""
+#     storage_client = storage.Client()
+#
+#     # Note: Client.list_blobs requires at least package version 1.17.0.
+#     blobs = storage_client.list_blobs(bucket_name)
+#     for blob in blobs:
+#         print("ddd")
+#         print(blob.name)
+#
+# list_blobs("gsoc_seungjunlee")
+
+# client=storage.Client()
+# bucket=client.get_bucket('gsoc_seungjunlee')
+# blob=bucket.blob('GSoC_Dataset_V1.csv')
+# blob.upload_from_filename('GSoC_Dataset_V1.csv')
