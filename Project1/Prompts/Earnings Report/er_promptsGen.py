@@ -13,4 +13,4 @@ for company in sp500:
         for y in ys:
             prompts.append(f"Write an earnings report for {company.strip()} for {q} of {y}.\n")
 
-helper.saveList2FIle('erPrompts.txt', prompts)
+helper.saveList2FIle('../../Prompts_text_files/erPrompts.txt', prompts)

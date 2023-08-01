@@ -8,4 +8,4 @@ for idx in range(len(jobs1)):
     prompts.append(f"Write an email {jobs1[idx].strip()} sending to {jobs2[idx].strip()}.\n")
     prompts.append(f"Write an email {jobs2[idx].strip()} sending to {jobs1[idx].strip()}.\n")
 
-helper.saveList2FIle('emailPrompts.txt', prompts)
+helper.saveList2FIle('../../Prompts_text_files/emailPrompts.txt', prompts)

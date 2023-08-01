@@ -36,4 +36,4 @@ fileNames = [
 './Prompts/friendsPrompts.txt'
 ]
 
-helper.combine_text_files(fileNames, 'chatPrompts.txt')
+helper.combine_text_files(fileNames, '../../Prompts_text_files/chatPrompts.txt')

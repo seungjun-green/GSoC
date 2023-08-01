@@ -6,5 +6,5 @@ prompts = []
 for title in titles:
     prompts.append(f"Write a conversational style article using slang words on {title}")
 
-helper.saveList2FIle('gossipPrompts.txt', prompts)
+helper.saveList2FIle('../../Prompts_text_files/gossipPrompts.txt', prompts)
 
