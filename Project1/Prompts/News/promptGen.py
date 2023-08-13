@@ -28,4 +28,4 @@ fileNames = [
 './Prompts/politicsPrompts.txt'
 ]
 
-helper.combine_text_files(fileNames, '../../Prompts_text_files/newsPrompts.txt')
+helper.combine_text_files(fileNames, '../../Prompts_text_files/news_prompts.txt')

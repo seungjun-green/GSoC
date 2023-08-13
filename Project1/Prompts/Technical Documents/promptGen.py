@@ -27,4 +27,4 @@ fileNames = ['./Prompts/AeroSpacePrompts.txt',
              ]
 
 
-helper.combine_text_files(fileNames, '../../Prompts_text_files/techPrompts.txt')
+helper.combine_text_files(fileNames, '../../Prompts_text_files/tech_prompts.txt')

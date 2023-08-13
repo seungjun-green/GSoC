@@ -23,4 +23,4 @@ def generatePrompts(input, output):
 
     helper.saveList2FIle(output, prompts)
 
-generatePrompts('jobsTerms', 'jobPrompts.txt')
+generatePrompts('jobsTerms', 'job_prompts.txt')

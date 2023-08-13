@@ -14,7 +14,7 @@ helper.combine_text_files(files, 'fOthersTerms.txt')
 
 terms = helper.file2List('fOthersTerms.txt')
 
-with open('../../Prompts_text_files/fOthersPrompts.txt', 'w') as f:
+with open('../../Prompts_text_files/fOthers_prompts.txt', 'w') as f:
     for term in terms:
         f.write(f"Write a document explaining about {term.strip()}.\n")
 

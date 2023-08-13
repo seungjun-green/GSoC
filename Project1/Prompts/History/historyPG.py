@@ -7,4 +7,4 @@ prompts = []
 for bodyPart in bodyParts:
     prompts.append(f"Write a historical document on {bodyPart.strip()}.\n")
 
-helper.saveList2FIle('../../Prompts_text_files/historyPrompts.txt', prompts)
+helper.saveList2FIle('../../Prompts_text_files/history_prompts.txt', prompts)
