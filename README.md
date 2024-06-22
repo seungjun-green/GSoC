@@ -1,7 +1,7 @@
 # GSoC 2023
 
 ## Introduction
-This dataset was developed to address the limitations in publicly available datasets, which often contain only one specific document type or provide summaries that are disproportionately short (typically 1-2 sentences) regardless of the document length. The goal was to create a dataset that includes a variety of document types and maintains a reasonable summary-to-document length ratio.
+This dataset was developed to address the limitations in publicly available datasets, which often contain only one specific document type(e.g, news) or provide summaries that are disproportionately short (typically 1-2 sentences) regardless of the document length. The goal was to create a dataset that includes a variety of document types and maintains a reasonable summary-to-document length ratio.
 
 ## Dataset Creation Process
 
@@ -11,32 +11,27 @@ We began by selecting 13 diverse document types, including novels, chat historie
 
 ### Step 2: Topic Generation
 
-For each document type, we generated between 500 to 1000 topics. These topics were stored in text files for further processing. Below is a snippet of how the topics were structured and saved:
-
-```
-document_types = ["novel", "chat history", "email", ...]
-for doc_type in document_types:
-    # Create text files where each line is a topic name
-```
-
+For each document type, we generated between 500 to 1000 topics using PaLM API. These topics were stored in text files for further processing. 
 
 ### Step 3: Prompt Creation
 
 We iterated through each text file, extracting topics and embedding them into a pre-defined prompt structure. Here's how we structured our prompt creation for hisyoty type:
+
 ```
 body_parts = helper.file2List('historyEvents.txt')
 prompts = []
 for body_part in body_parts:
     prompts.append(f"Write a historical document on {body_part.strip()}.\n")
-
 ```
-
 
 ### Step 4: Document Generation with PaLM API
 
 Using the prompts generated in the previous step, we used the PaLM API to write documents corresponding to each prompt.
 
-###Step 5: Summary Generation
+### Step 5: Summary Generation
 
 For each document, we also used the PaLM API to generate concise summaries, ensuring that each summary adequately reflects the content of the document.
+
+
+
 
