@@ -16,7 +16,7 @@ For each document type, we generated between 500 to 1000 topics using PaLM API. 
 
 ### Step 3: Prompt Creation
 
-We iterated through each text file, extracting topics and embedding them into a pre-defined prompt structure. Here's how we structured our prompt creation for hisyoty type:
+We iterated through each text file, extracting topics and embedding them into a pre-defined prompt structure. Here's how we structured our prompt creation for the history type:
 
 ```
 body_parts = helper.file2List('historyEvents.txt')
@@ -25,7 +25,7 @@ for body_part in body_parts:
     prompts.append(f"Write a historical document on {body_part.strip()}.\n")
 ```
 
-For more details about what are those topics and what were the pre-defined prompt strucutre, please check [this](https://github.com/seungjun-green/GSoC/tree/main/Project1/Prompts)
+For more details about what are those topics and what were the pre-defined prompt structure, please check [this](https://github.com/seungjun-green/GSoC/tree/main/Project1/Prompts)
 
 You can check all 13 prompt files at [here](https://github.com/seungjun-green/GSoC/tree/main/Project1/Prompts_text_files)
 
