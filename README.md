@@ -24,6 +24,9 @@ for body_part in body_parts:
     prompts.append(f"Write a historical document on {body_part.strip()}.\n")
 ```
 
+
+You can check all 13 prompt files at [here](https://github.com/seungjun-green/GSoC/tree/main/Project1/Prompts_text_files)
+
 ### Step 4: Document Generation with PaLM API
 
 Using the prompts generated in the previous step, we used the PaLM API to write documents corresponding to each prompt.
