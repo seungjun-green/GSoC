@@ -11,7 +11,7 @@ We began by selecting 13 diverse document types, including novels, chat historie
 
 ### Step 2: Topic Generation
 
-For each document type, we generated between 500 to 1000 topics using PaLM API. These topics were stored in text files for further processing. 
+For each document type, we generated between 500 to 1000 topics(1~5 words) using PaLM API. These topics were stored in text files for further processing. For exmaple if document type is history, then topics coule be WW1, WW2 and so on.
 
 
 ### Step 3: Prompt Creation
@@ -39,11 +39,9 @@ For each document, we also used the PaLM API to generate concise summaries, ensu
 
 
 
-
-
-
 ## Making text summarization models
 
+Then created text summarization models by fine-tuning T5 and GPT2. Through experimentation, discovered that fine-tuning GPT-2 with equal loss weighting for original document and summary parts yielded the best results in terms of Rouge-L score. For more details please check [this notebook]().
 
 
 
